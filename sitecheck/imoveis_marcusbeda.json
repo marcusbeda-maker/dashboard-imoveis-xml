@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-07-26T17:05:51+00:00",
-    "total": 47,
+    "gerado_em_utc": "2026-07-27T05:54:19+00:00",
+    "total": 48,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -115,9 +115,9 @@
     },
     {
       "id": "3933872",
-      "listing_id": "5i-Casa recanto Oliveira 350 m_1-3933872",
+      "listing_id": "5i-Casa recanto Oliveira 420 m_1-3933872",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 2 banheiros, 1 vaga",
-      "referencia": "5i-Casa recanto Oliveira 350 m_1",
+      "referencia": "5i-Casa recanto Oliveira 420 m_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -166,7 +166,7 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202509110936112911.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/3933872/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%205i-Casa%20recanto%20Oliveira%20350%20m_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933872/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%205i-Casa%20recanto%20Oliveira%20420%20m_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933872/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais"
     },
     {
       "id": "3933908",
@@ -318,9 +318,9 @@
     },
     {
       "id": "4094940",
-      "listing_id": "4i-Casa mariliza Lucas 670 mil_1-4094940",
+      "listing_id": "4i-Casa mariliza Lucas 650 mil_1-4094940",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Jardim Mariliza, 3 dormitórios, 2 suítes, 3 banheiros, 2 vagas",
-      "referencia": "4i-Casa mariliza Lucas 670 mil_1",
+      "referencia": "4i-Casa mariliza Lucas 650 mil_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -338,7 +338,7 @@
       "area_privativa": "150 m²",
       "area_total": "210 m²",
       "area_terreno": "210 m²",
-      "descricao": "Casa no Mariliza, próximo ao muro do Jardins Atenas; Aceita financiamento; com 03 quartos sendo 02 suítes com armários nos banheiros; Banheiro social com armários; Cozinha com armários; Sala de jantar e estar; Garagem para 02 carros; Área gourmet com bancada com armários; Jardim na entrada; Com cerca de 150 metros construídos; Lote com 210 metros; Valor de venda 670 mil",
+      "descricao": "Casa no Mariliza, próximo ao muro do Jardins Atenas; Aceita financiamento; com 03 quartos sendo 02 suítes com armários nos banheiros; Banheiro social com armários; Cozinha com armários; Sala de jantar e estar; Garagem para 02 carros; Área gourmet com bancada com armários; Jardim na entrada; Com cerca de 150 metros construídos; Lote com 210 metros; Valor de venda 650 mil",
       "imagens": [
         "https://www.marcusbeda.com.br/imagens/imoveis/202601031326244029.jpeg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202601031326255297.jpeg",
@@ -372,7 +372,7 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601031326244029.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4094940/casa-3-dormitorios-venda-goiania-go-jardim-mariliza",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%204i-Casa%20mariliza%20Lucas%20670%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4094940/casa-3-dormitorios-venda-goiania-go-jardim-mariliza"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%204i-Casa%20mariliza%20Lucas%20650%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4094940/casa-3-dormitorios-venda-goiania-go-jardim-mariliza"
     },
     {
       "id": "4095337",
@@ -745,9 +745,9 @@
     },
     {
       "id": "4099379",
-      "listing_id": "23i-Casa recanto cleyton sr31_1-4099379",
+      "listing_id": "40i-Casa recanto cleyton sr31_1-4099379",
       "titulo": "Casa para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "23i-Casa recanto cleyton sr31_1",
+      "referencia": "40i-Casa recanto cleyton sr31_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -792,7 +792,7 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601080840284356.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4099379/casa-venda-goiania-go-setor-recanto-das-minas-gerais",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2023i-Casa%20recanto%20cleyton%20sr31_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4099379/casa-venda-goiania-go-setor-recanto-das-minas-gerais"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2040i-Casa%20recanto%20cleyton%20sr31_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4099379/casa-venda-goiania-go-setor-recanto-das-minas-gerais"
     },
     {
       "id": "4099385",
@@ -997,8 +997,8 @@
       "numero": "1",
       "complemento": "Sobrado",
       "cep": "75254135",
-      "valor": "R$ 2.000.000",
-      "valor_num": 2000000,
+      "valor": "R$ 1.800.000",
+      "valor_num": 1800000,
       "dormitorios": "4",
       "banheiros": "5",
       "vagas": "4",
@@ -2306,6 +2306,62 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607171827049940.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4294420/casa-em-condominio-venda-senador-canedo-go-jardins-bolonha",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%208i-Jardins%20Bolonha%201.550k%20D%20B_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4294420/casa-em-condominio-venda-senador-canedo-go-jardins-bolonha"
+    },
+    {
+      "id": "4301961",
+      "listing_id": "51i-Casa Jardins Nápoles 1880k_1-4301961",
+      "titulo": "Casa porteira fechada no Jardins Nápoles com 4 suítes e piscina",
+      "referencia": "51i-Casa Jardins Nápoles 1880k_1",
+      "tipo": "Casa em Condomínio",
+      "finalidade": "venda",
+      "cidade": "Senador Canedo",
+      "bairro": "Residencial Marilia",
+      "endereco": "Rua Belém",
+      "numero": "1",
+      "complemento": "Casa",
+      "cep": "75254501",
+      "valor": "R$ 1.880.000",
+      "valor_num": 1880000,
+      "dormitorios": "4",
+      "banheiros": "5",
+      "vagas": "4",
+      "suites": "4",
+      "area_privativa": "198 m²",
+      "area_total": "360 m²",
+      "area_terreno": "360 m²",
+      "descricao": "Casa em condomínio no Jardins Nápoles, em Senador Canedo-GO, com 4 suítes, área de lazer e venda porteira fechada. Imóvel moderno e completo, com 198 m² de construção em lote de 360 m². O projeto oferece ambientes integrados, excelente padrão de acabamento e espaços planejados para conforto e praticidade. São 4 suítes, 5 banheiros, sala integrada, cozinha planejada, área gourmet, piscina e ambientes bem distribuídos para receber a família e os amigos. Venda porteira fechada, incluindo móveis, eletrodomésticos, decoração e ar-condicionado, conforme informado pelo responsável. Valor de venda: R$ 1.880.000,00.",
+      "imagens": [
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744217948.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20260726174421649.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20260726174422265.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744221651.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744221046.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744227805.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744224436.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20260726174422438.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744225940.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20260726174423920.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744235413.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744235421.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744232877.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744238945.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744235986.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744238687.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744248243.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744244573.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744248471.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744242134.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744248639.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744249816.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744246224.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744253687.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744259899.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744253561.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744259410.jpg"
+      ],
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607261744217948.jpg",
+      "link": "https://www.marcusbeda.com.br/imovel/4301961/casa-em-condominio-venda-senador-canedo-go-residencial-marilia",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2051i-Casa%20Jardins%20N%C3%A1poles%201880k_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4301961/casa-em-condominio-venda-senador-canedo-go-residencial-marilia"
     }
   ]
 }
