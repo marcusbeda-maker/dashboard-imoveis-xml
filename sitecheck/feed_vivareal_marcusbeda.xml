@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-08-05T11:21:00</PublishDate>
+								<PublishDate>2026-08-05T22:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -107,8 +107,8 @@
 	<Features><Feature>Electronic Gate</Feature><Feature>Maid's Quarters</Feature><Feature>Kitchen</Feature><Feature>Close to schools</Feature></Features>
 	<ListPrice currency="BRL">420000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">0</PropertyAdministrationFee>
 	
-	<LotArea unit="square metres">106</LotArea>
-	<LivingArea unit="square metres">135</LivingArea>
+	<LotArea unit="square metres">135</LotArea>
+	<LivingArea unit="square metres">106</LivingArea>
 	<Bedrooms>3</Bedrooms>
 	<Bathrooms>2</Bathrooms>
 	<Suites>1</Suites>
@@ -1005,7 +1005,7 @@
 	<ListPrice currency="BRL">850000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">0</PropertyAdministrationFee>
 	
 	<LotArea unit="square metres">237</LotArea>
-	<LivingArea unit="square metres">237</LivingArea>
+	<LivingArea unit="square metres">167</LivingArea>
 	<Bedrooms>3</Bedrooms>
 	<Bathrooms>4</Bathrooms>
 	<Suites>3</Suites>
@@ -1395,7 +1395,7 @@
 	<ListPrice currency="BRL">270000</ListPrice>
 	
 	<LotArea unit="square metres">140</LotArea>
-	<LivingArea unit="square metres">140</LivingArea>
+	<LivingArea unit="square metres">72</LivingArea>
 	<Bedrooms>2</Bedrooms>
 	<Bathrooms>2</Bathrooms>
 	<Suites>1</Suites>
