@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-08-06T11:25:41+00:00",
-    "total": 52,
+    "gerado_em_utc": "2026-08-07T04:27:48+00:00",
+    "total": 53,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -2591,6 +2591,56 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607281447431746.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4303948/casa-3-dormitorios-venda-senador-canedo-go-residencial-morada-do-bosque",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2052i-Casa%203%20Quartos%20Morada%20do%20B_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4303948/casa-3-dormitorios-venda-senador-canedo-go-residencial-morada-do-bosque"
+    },
+    {
+      "id": "4313729",
+      "listing_id": "53i-Sobrado Alto Padrão Jardin_1-4313729",
+      "titulo": "Sobrado em Condomínio para Venda em Aparecida de Goiânia, Jardins Sevilha, 3 dormitórios, 3 suítes, 5 banheiros, 4 vagas",
+      "referencia": "53i-Sobrado Alto Padrão Jardin_1",
+      "tipo": "Sobrado",
+      "finalidade": "venda",
+      "cidade": "Aparecida de Goiânia",
+      "bairro": "Jardins Sevilha",
+      "endereco": "Rua da Macadâmia",
+      "numero": "1",
+      "complemento": "Sobrado",
+      "cep": "74933720",
+      "valor": "R$ 2.100.000",
+      "valor_num": 2100000,
+      "dormitorios": "3",
+      "banheiros": "5",
+      "vagas": "4",
+      "suites": "3",
+      "area_privativa": "248 m²",
+      "area_total": "250 m²",
+      "area_terreno": "250 m²",
+      "descricao": "Sobrado de alto padrão no Condomínio Jardins Servilha, em Aparecida de Goiânia. Projeto contemporâneo com 248,01 m² de área construída em lote de 250 m², acabamento premium e ambientes integrados, pensado para quem busca conforto, sofisticação e lazer privativo dentro de condomínio fechado. Destaques do imóvel: - 3 suítes plenas no pavimento superior; - suíte master com amplo espaço para closet e sacada privativa; - sala íntima no piso superior, ideal para TV, home office ou convivência; - ponto de água para copa de apoio no pavimento superior; - espaço destinado para roupeiro; - quarto no piso inferior/escritorio, com possibilidade de reversão para quarta suíte; - 5 banheiros ao todo; - sala com pé-direito duplo; - cozinha gourmet integrada; - espaço para louceiro; - varanda gourmet; - churrasqueira a carvão; - piscina aquecida com hidromassagem, cascata e iluminação em LED; - área gramada; - garagem para 4 carros, sendo 2 vagas cobertas e 2 descobertas. Acabamentos e diferenciais: - piso em porcelanato acetinado 1,20 x 1,20 m; - bancadas da cozinha em granito Preto São Gabriel escovado; - bancadas dos banheiros e escadas em Quartzito Biancatto; - rodapé embutido; - projeto luminotécnico completo; - sacadas na suíte frontal e na parte dos fundos; - aquecimento solar nos chuveiros; - fechadura eletrônica; - infraestrutura para Wi-Fi e automação residencial; - preparação para ar-condicionado em todos os ambientes; - escaninho amplo sob a escada, com acesso pela garagem. As fotos e vídeos mostram fachada moderna, garagem coberta, sala ampla com pé-direito duplo, guarda-corpos em vidro, escada com acabamento claro, cozinha gourmet com ilha e bancadas escuras, integração com varanda gourmet, piscina privativa, churrasqueira, banheiros com revestimentos sofisticados, nichos iluminados, portas em madeira e projeto de iluminação linear em LED. Área construída: 248,01 m². Área do lote: 250 m². Valor de venda: R$ 2.100.000,00. Localização: Condomínio Jardins Servilha, Aparecida de Goiânia-GO. Entre em contato para conhecer o imóvel e agendar uma visita. Marcus Béda Corretor de Imóveis CRECI 23.152-F Telefone/WhatsApp: (62) 98116-2705 E-mail: marcusbedagmail.com Site: www.marcusbeda.com.br",
+      "imagens": [
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106133914.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106148351.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106147751.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106149840.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106155284.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106154477.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106169886.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106166095.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106172256.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106196294.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106208417.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106214874.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106218284.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106221065.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106221242.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106238078.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20260806210624180.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106258007.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106251019.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106265183.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202608062106279771.jpeg"
+      ],
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202608062106133914.jpeg",
+      "link": "https://www.marcusbeda.com.br/imovel/4313729/sobrado-em-condominio-venda-aparecida-de-goiania-go-jardins-sevilha",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2053i-Sobrado%20Alto%20Padr%C3%A3o%20Jardin_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4313729/sobrado-em-condominio-venda-aparecida-de-goiania-go-jardins-sevilha"
     }
   ]
 }
