@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-08-15T22:21:00</PublishDate>
+								<PublishDate>2026-08-16T11:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2048,7 +2048,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
+	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.18971000</Latitude><Longitude>-16.69871000</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
