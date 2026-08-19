@@ -2,7 +2,7 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-08-19T09:36:39+00:00",
+    "gerado_em_utc": "2026-08-19T16:34:48+00:00",
     "total": 53,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
@@ -329,8 +329,8 @@
       "numero": "1",
       "complemento": "Casa",
       "cep": "74885100",
-      "valor": "R$ 630.000",
-      "valor_num": 630000,
+      "valor": "R$ 635.000",
+      "valor_num": 635000,
       "dormitorios": "3",
       "banheiros": "3",
       "vagas": "2",
