@@ -2,16 +2,16 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-08-27T12:36:06+00:00",
+    "gerado_em_utc": "2026-08-28T00:47:15+00:00",
     "total": 55,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
     {
       "id": "978859",
-      "listing_id": "25i-apartamento Metropoles 235_1-978859",
+      "listing_id": "25i_1-978859",
       "titulo": "Apartamento 2 Quartos para Venda em Goiânia, Jardim Novo Mundo, 2 dormitórios, 1 banheiro, 1 vaga",
-      "referencia": "25i-apartamento Metropoles 235_1",
+      "referencia": "25i_1",
       "tipo": "Apartamento",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -57,13 +57,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202509160922328174.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/978859/apartamento-2-quartos-venda-goiania-go-jardim-novo-mundo",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2025i-apartamento%20Metropoles%20235_1%3A%20https%3A//www.marcusbeda.com.br/imovel/978859/apartamento-2-quartos-venda-goiania-go-jardim-novo-mundo"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2025i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/978859/apartamento-2-quartos-venda-goiania-go-jardim-novo-mundo"
     },
     {
       "id": "3933859",
-      "listing_id": "20i-casa esquina Parma sol 1.0_1-3933859",
+      "listing_id": "20i_1-3933859",
       "titulo": "Casa em Condomínio para Venda em Senador Canedo, Jardins Parma, 3 dormitórios, 3 suítes, 4 banheiros, 2 vagas",
-      "referencia": "20i-casa esquina Parma sol 1.0_1",
+      "referencia": "20i_1",
       "tipo": "Casa em Condomínio",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -111,13 +111,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202509110900497746.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/3933859/casa-em-condominio-venda-senador-canedo-go-jardins-parma",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2020i-casa%20esquina%20Parma%20sol%201.0_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933859/casa-em-condominio-venda-senador-canedo-go-jardins-parma"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2020i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933859/casa-em-condominio-venda-senador-canedo-go-jardins-parma"
     },
     {
       "id": "3933872",
-      "listing_id": "5i-Casa recanto Oliveira 420 m_1-3933872",
+      "listing_id": "5i_1-3933872",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 2 banheiros, 1 vaga",
-      "referencia": "5i-Casa recanto Oliveira 420 m_1",
+      "referencia": "5i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -166,13 +166,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202509110936112911.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/3933872/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%205i-Casa%20recanto%20Oliveira%20420%20m_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933872/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%205i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933872/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais"
     },
     {
       "id": "3933908",
-      "listing_id": "22i-casa esquina J capri sol 1_1-3933908",
+      "listing_id": "22i_1-3933908",
       "titulo": "Casa em Condomínio para Venda em Senador Canedo, Jardins Capri, 3 dormitórios, 3 suítes, 4 banheiros, 2 vagas",
-      "referencia": "22i-casa esquina J capri sol 1_1",
+      "referencia": "22i_1",
       "tipo": "Casa em Condomínio",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -216,13 +216,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202509110947229299.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/3933908/casa-em-condominio-venda-senador-canedo-go-jardins-capri",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2022i-casa%20esquina%20J%20capri%20sol%201_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933908/casa-em-condominio-venda-senador-canedo-go-jardins-capri"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2022i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933908/casa-em-condominio-venda-senador-canedo-go-jardins-capri"
     },
     {
       "id": "3933925",
-      "listing_id": "27i-casa Nápoles Douglas 1500k_1-3933925",
+      "listing_id": "27i_1-3933925",
       "titulo": "Casa em Condomínio para Venda em Senador Canedo, Jardins Nápoles, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas",
-      "referencia": "27i-casa Nápoles Douglas 1500k_1",
+      "referencia": "27i_1",
       "tipo": "Casa em Condomínio",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -270,13 +270,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202509110957281796.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/3933925/casa-em-condominio-venda-senador-canedo-go-jardins-napoles",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2027i-casa%20N%C3%A1poles%20Douglas%201500k_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933925/casa-em-condominio-venda-senador-canedo-go-jardins-napoles"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2027i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/3933925/casa-em-condominio-venda-senador-canedo-go-jardins-napoles"
     },
     {
       "id": "4094799",
-      "listing_id": "2i-Casa novo mundo 530 mil_1-4094799",
+      "listing_id": "2i_1-4094799",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Jardim Novo Mundo, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "2i-Casa novo mundo 530 mil_1",
+      "referencia": "2i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -314,13 +314,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/20260103130745733.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4094799/casa-3-dormitorios-venda-goiania-go-jardim-novo-mundo",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%202i-Casa%20novo%20mundo%20530%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4094799/casa-3-dormitorios-venda-goiania-go-jardim-novo-mundo"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%202i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4094799/casa-3-dormitorios-venda-goiania-go-jardim-novo-mundo"
     },
     {
       "id": "4094940",
-      "listing_id": "4i-Casa mariliza Lucas 650 mil_1-4094940",
+      "listing_id": "4i_1-4094940",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Jardim Mariliza, 3 dormitórios, 2 suítes, 3 banheiros, 2 vagas",
-      "referencia": "4i-Casa mariliza Lucas 650 mil_1",
+      "referencia": "4i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -388,13 +388,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601031326244029.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4094940/casa-3-dormitorios-venda-goiania-go-jardim-mariliza",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%204i-Casa%20mariliza%20Lucas%20650%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4094940/casa-3-dormitorios-venda-goiania-go-jardim-mariliza"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%204i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4094940/casa-3-dormitorios-venda-goiania-go-jardim-mariliza"
     },
     {
       "id": "4095337",
-      "listing_id": "3i-Casa parque amendoeira João_1-4095337",
+      "listing_id": "3i_1-4095337",
       "titulo": "Casa para Venda em Goiânia, Parque das Amendoeiras, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "3i-Casa parque amendoeira João_1",
+      "referencia": "3i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -403,8 +403,8 @@
       "numero": "1",
       "complemento": "Casa",
       "cep": "74780560",
-      "valor": "R$ 750.000",
-      "valor_num": 750000,
+      "valor": "R$ 600.000",
+      "valor_num": 600000,
       "dormitorios": "3",
       "banheiros": "2",
       "vagas": "2",
@@ -439,13 +439,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601050915581036.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4095337/casa-venda-goiania-go-parque-das-amendoeiras",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%203i-Casa%20parque%20amendoeira%20Jo%C3%A3o_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4095337/casa-venda-goiania-go-parque-das-amendoeiras"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%203i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4095337/casa-venda-goiania-go-parque-das-amendoeiras"
     },
     {
       "id": "4095696",
-      "listing_id": "1i-Sobrado marco Túlio 1.890.0_1-4095696",
+      "listing_id": "1i_1-4095696",
       "titulo": "Sobrado para Venda em Senador Canedo, Jardins Bolonha, 4 dormitórios, 3 suítes, 4 banheiros, 2 vagas",
-      "referencia": "1i-Sobrado marco Túlio 1.890.0_1",
+      "referencia": "1i_1",
       "tipo": "Sobrado",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -500,13 +500,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601051418553611.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4095696/sobrado-venda-senador-canedo-go-jardins-bolonha",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%201i-Sobrado%20marco%20T%C3%BAlio%201.890.0_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4095696/sobrado-venda-senador-canedo-go-jardins-bolonha"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%201i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4095696/sobrado-venda-senador-canedo-go-jardins-bolonha"
     },
     {
       "id": "4095747",
-      "listing_id": "7i-Casa Roberto Veneza 1.400k_1-4095747",
+      "listing_id": "7i_1-4095747",
       "titulo": "Casa para Venda em Senador Canedo, Residencial Condomínio Jardim Veneza, 3 dormitórios, 3 suítes, 4 banheiros, 4 vagas",
-      "referencia": "7i-Casa Roberto Veneza 1.400k_1",
+      "referencia": "7i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -548,13 +548,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601051454404616.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4095747/casa-venda-senador-canedo-go-residencial-condominio-jardim-veneza",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%207i-Casa%20Roberto%20Veneza%201.400k_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4095747/casa-venda-senador-canedo-go-residencial-condominio-jardim-veneza"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%207i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4095747/casa-venda-senador-canedo-go-residencial-condominio-jardim-veneza"
     },
     {
       "id": "4096246",
-      "listing_id": "12i-casa recantinho luiz 620 m_1-4096246",
+      "listing_id": "12i_1-4096246",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 2 banheiros, 3 vagas",
-      "referencia": "12i-casa recantinho luiz 620 m_1",
+      "referencia": "12i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -604,13 +604,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601060754575939.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4096246/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2012i-casa%20recantinho%20luiz%20620%20m_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4096246/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2012i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4096246/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais"
     },
     {
       "id": "4097828",
-      "listing_id": "15i-Casa Joilson Nv mundo 600_1-4097828",
+      "listing_id": "15i_1-4097828",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Jardim Novo Mundo, 3 dormitórios, 1 suíte, 2 banheiros, 3 vagas",
-      "referencia": "15i-Casa Joilson Nv mundo 600_1",
+      "referencia": "15i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -663,13 +663,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601071108246513.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4097828/casa-3-dormitorios-venda-goiania-go-jardim-novo-mundo",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2015i-Casa%20Joilson%20Nv%20mundo%20600_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4097828/casa-3-dormitorios-venda-goiania-go-jardim-novo-mundo"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2015i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4097828/casa-3-dormitorios-venda-goiania-go-jardim-novo-mundo"
     },
     {
       "id": "4097877",
-      "listing_id": "16i-Casa Maria Luiza piscina M_1-4097877",
+      "listing_id": "16i_1-4097877",
       "titulo": "Casa para Venda em Goiânia, Vila Maria Luiza, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas",
-      "referencia": "16i-Casa Maria Luiza piscina M_1",
+      "referencia": "16i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -711,13 +711,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/20260107113303530.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4097877/casa-venda-goiania-go-vila-maria-luiza",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2016i-Casa%20Maria%20Luiza%20piscina%20M_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4097877/casa-venda-goiania-go-vila-maria-luiza"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2016i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4097877/casa-venda-goiania-go-vila-maria-luiza"
     },
     {
       "id": "4098541",
-      "listing_id": "18i-Casa Havaí Aryel 950 mil_1-4098541",
+      "listing_id": "18i_1-4098541",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Residencial Havaí, 3 dormitórios, 2 suítes, 3 banheiros, 4 vagas",
-      "referencia": "18i-Casa Havaí Aryel 950 mil_1",
+      "referencia": "18i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -757,13 +757,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601071431579305.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4098541/casa-3-dormitorios-venda-goiania-go-residencial-havai",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2018i-Casa%20Hava%C3%AD%20Aryel%20950%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4098541/casa-3-dormitorios-venda-goiania-go-residencial-havai"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2018i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4098541/casa-3-dormitorios-venda-goiania-go-residencial-havai"
     },
     {
       "id": "4099379",
-      "listing_id": "40i-Casa recanto cleyton sr31_1-4099379",
+      "listing_id": "40i_1-4099379",
       "titulo": "Casa para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "40i-Casa recanto cleyton sr31_1",
+      "referencia": "40i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -772,8 +772,8 @@
       "numero": "1",
       "complemento": "Casa",
       "cep": "74785472",
-      "valor": "R$ 360.000",
-      "valor_num": 360000,
+      "valor": "R$ 380.000",
+      "valor_num": 380000,
       "dormitorios": "3",
       "banheiros": "2",
       "vagas": "2",
@@ -808,13 +808,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601080840284356.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4099379/casa-venda-goiania-go-setor-recanto-das-minas-gerais",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2040i-Casa%20recanto%20cleyton%20sr31_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4099379/casa-venda-goiania-go-setor-recanto-das-minas-gerais"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2040i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4099379/casa-venda-goiania-go-setor-recanto-das-minas-gerais"
     },
     {
       "id": "4099385",
-      "listing_id": "24i-Casa Vila Moraes 650 mil_1-4099385",
+      "listing_id": "24i_1-4099385",
       "titulo": "Casa para Venda em Goiânia, Vila Morais, 3 dormitórios, 1 suíte, 2 banheiros, 4 vagas",
-      "referencia": "24i-Casa Vila Moraes 650 mil_1",
+      "referencia": "24i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -852,13 +852,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601080852223135.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4099385/casa-venda-goiania-go-vila-morais",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2024i-Casa%20Vila%20Moraes%20650%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4099385/casa-venda-goiania-go-vila-morais"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2024i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4099385/casa-venda-goiania-go-vila-morais"
     },
     {
       "id": "4101897",
-      "listing_id": "26i-apartamento Vitta 255 mil_1-4101897",
+      "listing_id": "26i_1-4101897",
       "titulo": "Apartamento para Venda em Goiânia, Vila Martins, 2 dormitórios, 1 banheiro, 1 vaga",
-      "referencia": "26i-apartamento Vitta 255 mil_1",
+      "referencia": "26i_1",
       "tipo": "Apartamento",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -908,13 +908,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601081812196014.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4101897/apartamento-venda-goiania-go-vila-martins",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2026i-apartamento%20Vitta%20255%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4101897/apartamento-venda-goiania-go-vila-martins"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2026i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4101897/apartamento-venda-goiania-go-vila-martins"
     },
     {
       "id": "4103885",
-      "listing_id": "29i-Sobrado Barcelona sol 1.89_1-4103885",
+      "listing_id": "29i_1-4103885",
       "titulo": "Sobrado para Venda em Senador Canedo, Jardins Barcelona, 4 dormitórios, 4 suítes, 5 banheiros, 4 vagas",
-      "referencia": "29i-Sobrado Barcelona sol 1.89_1",
+      "referencia": "29i_1",
       "tipo": "Sobrado",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -952,13 +952,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601111053515245.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4103885/sobrado-venda-senador-canedo-go-jardins-barcelona",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2029i-Sobrado%20Barcelona%20sol%201.89_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4103885/sobrado-venda-senador-canedo-go-jardins-barcelona"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2029i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4103885/sobrado-venda-senador-canedo-go-jardins-barcelona"
     },
     {
       "id": "4105668",
-      "listing_id": "34i-Sobrado Vale verde Natália_1-4105668",
+      "listing_id": "34i_1-4105668",
       "titulo": "Sobrado em Condomínio para Venda em Senador Canedo, Residencial Vale Verde, 4 dormitórios, 4 suítes, 5 banheiros, 4 vagas",
-      "referencia": "34i-Sobrado Vale verde Natália_1",
+      "referencia": "34i_1",
       "tipo": "Sobrado",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -1014,13 +1014,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/20260112154937100.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4105668/sobrado-em-condominio-venda-senador-canedo-go-residencial-vale-verde",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2034i-Sobrado%20Vale%20verde%20Nat%C3%A1lia_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4105668/sobrado-em-condominio-venda-senador-canedo-go-residencial-vale-verde"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2034i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4105668/sobrado-em-condominio-venda-senador-canedo-go-residencial-vale-verde"
     },
     {
       "id": "4105702",
-      "listing_id": "35i_Casa Belvedere 950 mil_1-4105702",
+      "listing_id": "35i_1-4105702",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Residencial Jardim Belvedere Expansão, 3 dormitórios, 3 suítes, 4 banheiros, 2 vagas",
-      "referencia": "35i_Casa Belvedere 950 mil_1",
+      "referencia": "35i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1080,13 +1080,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601121604313348.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4105702/casa-3-dormitorios-venda-goiania-go-residencial-jardim-belvedere-expansao",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2035i_Casa%20Belvedere%20950%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4105702/casa-3-dormitorios-venda-goiania-go-residencial-jardim-belvedere-expansao"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2035i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4105702/casa-3-dormitorios-venda-goiania-go-residencial-jardim-belvedere-expansao"
     },
     {
       "id": "4108396",
-      "listing_id": "37i-Casa Morada do bosque 380_1-4108396",
+      "listing_id": "37i_1-4108396",
       "titulo": "Casa 3 dormitórios para Venda em Senador Canedo, Residencial Morada do Bosque, 3 dormitórios, 1 suíte, 2 banheiros, 3 vagas",
-      "referencia": "37i-Casa Morada do bosque 380_1",
+      "referencia": "37i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -1120,13 +1120,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601141244455661.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4108396/casa-3-dormitorios-venda-senador-canedo-go-residencial-morada-do-bosque",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2037i-Casa%20Morada%20do%20bosque%20380_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4108396/casa-3-dormitorios-venda-senador-canedo-go-residencial-morada-do-bosque"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2037i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4108396/casa-3-dormitorios-venda-senador-canedo-go-residencial-morada-do-bosque"
     },
     {
       "id": "4108541",
-      "listing_id": "38i-Casa com Piscina Marília 8_1-4108541",
+      "listing_id": "38i_1-4108541",
       "titulo": "Casa 3 dormitórios para Venda em Senador Canedo, Residencial Marilia, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas",
-      "referencia": "38i-Casa com Piscina Marília 8_1",
+      "referencia": "38i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -1176,13 +1176,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202601141409129062.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4108541/casa-3-dormitorios-venda-senador-canedo-go-residencial-marilia",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2038i-Casa%20com%20Piscina%20Mar%C3%ADlia%208_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4108541/casa-3-dormitorios-venda-senador-canedo-go-residencial-marilia"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2038i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4108541/casa-3-dormitorios-venda-senador-canedo-go-residencial-marilia"
     },
     {
       "id": "4261339",
-      "listing_id": "39i-Apartamento Res. Paineras_1-4261339",
+      "listing_id": "39i_1-4261339",
       "titulo": "Apartamento para Venda em Goiânia, Parque das Nações, 3 dormitórios, 1 banheiro, 1 vaga",
-      "referencia": "39i-Apartamento Res. Paineras_1",
+      "referencia": "39i_1",
       "tipo": "Apartamento",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1229,13 +1229,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202606110928435240.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4261339/apartamento-venda-goiania-go-parque-das-nacoes",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2039i-Apartamento%20Res.%20Paineras_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4261339/apartamento-venda-goiania-go-parque-das-nacoes"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2039i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4261339/apartamento-venda-goiania-go-parque-das-nacoes"
     },
     {
       "id": "4263994",
-      "listing_id": "50i-Casa Village Campos verde_1-4263994",
+      "listing_id": "50i_1-4263994",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Residencial Village Campos Verdes, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "50i-Casa Village Campos verde_1",
+      "referencia": "50i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1287,13 +1287,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202606150958021258.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4263994/casa-3-dormitorios-venda-goiania-go-residencial-village-campos-verdes",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2050i-Casa%20Village%20Campos%20verde_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4263994/casa-3-dormitorios-venda-goiania-go-residencial-village-campos-verdes"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2050i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4263994/casa-3-dormitorios-venda-goiania-go-residencial-village-campos-verdes"
     },
     {
       "id": "4280483",
-      "listing_id": "47i-Casa jardim Brasil rubio_1-4280483",
+      "listing_id": "47i_1-4280483",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Jardim Brasil, 3 dormitórios, 3 suítes, 4 banheiros, 2 vagas",
-      "referencia": "47i-Casa jardim Brasil rubio_1",
+      "referencia": "47i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1340,13 +1340,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607022025338980.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4280483/casa-3-dormitorios-venda-goiania-go-jardim-brasil",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2047i-Casa%20jardim%20Brasil%20rubio_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4280483/casa-3-dormitorios-venda-goiania-go-jardim-brasil"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2047i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4280483/casa-3-dormitorios-venda-goiania-go-jardim-brasil"
     },
     {
       "id": "4284971",
-      "listing_id": "48i-casa 2 quartos novo mundo_1-4284971",
+      "listing_id": "48i_1-4284971",
       "titulo": "Casas 2 Quartos para Venda em Goiânia, Jardim Novo Mundo, 2 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "48i-casa 2 quartos novo mundo_1",
+      "referencia": "48i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1377,13 +1377,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607081028247746.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4284971/casas-2-quartos-venda-goiania-go-jardim-novo-mundo",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2048i-casa%202%20quartos%20novo%20mundo_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4284971/casas-2-quartos-venda-goiania-go-jardim-novo-mundo"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2048i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4284971/casas-2-quartos-venda-goiania-go-jardim-novo-mundo"
     },
     {
       "id": "4285048",
-      "listing_id": "49i-Casa Recanto-33_650 mil_1-4285048",
+      "listing_id": "49i_1-4285048",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 3 banheiros, 2 vagas",
-      "referencia": "49i-Casa Recanto-33_650 mil_1",
+      "referencia": "49i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1433,13 +1433,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607081113342456.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4285048/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2049i-Casa%20Recanto-33_650%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4285048/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2049i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4285048/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais"
     },
     {
       "id": "4288989",
-      "listing_id": "41i- Lote terras Alpha 2 140 m_1-4288989",
+      "listing_id": "41i_1-4288989",
       "titulo": "Lote em Condomínio Fechado para Venda em Senador Canedo, Terras Alpha Residencial 2",
-      "referencia": "41i- Lote terras Alpha 2 140 m_1",
+      "referencia": "41i_1",
       "tipo": "Lote",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -1474,13 +1474,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131157215849.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4288989/lote-em-condominio-fechado-venda-senador-canedo-go-terras-alpha-residencial-2",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2041i-%20Lote%20terras%20Alpha%202%20140%20m_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4288989/lote-em-condominio-fechado-venda-senador-canedo-go-terras-alpha-residencial-2"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2041i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4288989/lote-em-condominio-fechado-venda-senador-canedo-go-terras-alpha-residencial-2"
     },
     {
       "id": "4289022",
-      "listing_id": "43i-Lote Jardins França 410 me_1-4289022",
+      "listing_id": "43i_1-4289022",
       "titulo": "Lote em Condomínio Fechado para Venda em Goiânia, Jardins França",
-      "referencia": "43i-Lote Jardins França 410 me_1",
+      "referencia": "43i_1",
       "tipo": "Lote",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1507,13 +1507,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131224363162.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4289022/lote-em-condominio-fechado-venda-goiania-go-jardins-franca",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2043i-Lote%20Jardins%20Fran%C3%A7a%20410%20me_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289022/lote-em-condominio-fechado-venda-goiania-go-jardins-franca"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2043i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289022/lote-em-condominio-fechado-venda-goiania-go-jardins-franca"
     },
     {
       "id": "4289044",
-      "listing_id": "33i-Lote Condomínio Vale Verde_1-4289044",
+      "listing_id": "33i_1-4289044",
       "titulo": "Lote em Condomínio Fechado para Venda em Senador Canedo, Residencial Vale Verde",
-      "referencia": "33i-Lote Condomínio Vale Verde_1",
+      "referencia": "33i_1",
       "tipo": "Lote",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -1539,13 +1539,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131240316774.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4289044/lote-em-condominio-fechado-venda-senador-canedo-go-residencial-vale-verde",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2033i-Lote%20Condom%C3%ADnio%20Vale%20Verde_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289044/lote-em-condominio-fechado-venda-senador-canedo-go-residencial-vale-verde"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2033i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289044/lote-em-condominio-fechado-venda-senador-canedo-go-residencial-vale-verde"
     },
     {
       "id": "4289068",
-      "listing_id": "32i-Loteamento Carlos de Frei_1-4289068",
+      "listing_id": "32i_1-4289068",
       "titulo": "Loteamento para Venda em Goiânia, Residencial Carlos de Freitas",
-      "referencia": "32i-Loteamento Carlos de Frei_1",
+      "referencia": "32i_1",
       "tipo": "Lote",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1580,13 +1580,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131257018090.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4289068/loteamento-venda-goiania-go-residencial-carlos-de-freitas",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2032i-Loteamento%20Carlos%20de%20Frei_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289068/loteamento-venda-goiania-go-residencial-carlos-de-freitas"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2032i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289068/loteamento-venda-goiania-go-residencial-carlos-de-freitas"
     },
     {
       "id": "4289082",
-      "listing_id": "31i-Lote Jardins Parma Guilher_1-4289082",
+      "listing_id": "31i_1-4289082",
       "titulo": "Lote em Condomínio Fechado para Venda em Senador Canedo, Jardins Parma",
-      "referencia": "31i-Lote Jardins Parma Guilher_1",
+      "referencia": "31i_1",
       "tipo": "Lote",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -1615,13 +1615,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131312178673.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4289082/lote-em-condominio-fechado-venda-senador-canedo-go-jardins-parma",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2031i-Lote%20Jardins%20Parma%20Guilher_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289082/lote-em-condominio-fechado-venda-senador-canedo-go-jardins-parma"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2031i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289082/lote-em-condominio-fechado-venda-senador-canedo-go-jardins-parma"
     },
     {
       "id": "4289093",
-      "listing_id": "30i-Lote Jardim novo mundo 384_1-4289093",
+      "listing_id": "30i_1-4289093",
       "titulo": "Lote para Venda em Goiânia, Jardim Novo Mundo",
-      "referencia": "30i-Lote Jardim novo mundo 384_1",
+      "referencia": "30i_1",
       "tipo": "Lote",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1649,13 +1649,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131321072432.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4289093/lote-venda-goiania-go-jardim-novo-mundo",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2030i-Lote%20Jardim%20novo%20mundo%20384_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289093/lote-venda-goiania-go-jardim-novo-mundo"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2030i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289093/lote-venda-goiania-go-jardim-novo-mundo"
     },
     {
       "id": "4289108",
-      "listing_id": "23i-Casa de esquina no Riviera_1-4289108",
+      "listing_id": "23i_1-4289108",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Conjunto Riviera, 3 dormitórios, 1 suíte, 2 banheiros, 3 vagas",
-      "referencia": "23i-Casa de esquina no Riviera_1",
+      "referencia": "23i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1706,13 +1706,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131339373296.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4289108/casa-3-dormitorios-venda-goiania-go-conjunto-riviera",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2023i-Casa%20de%20esquina%20no%20Riviera_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289108/casa-3-dormitorios-venda-goiania-go-conjunto-riviera"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2023i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289108/casa-3-dormitorios-venda-goiania-go-conjunto-riviera"
     },
     {
       "id": "4289136",
-      "listing_id": "21i-Casa Monte Azul em Senador_1-4289136",
+      "listing_id": "21i_1-4289136",
       "titulo": "Casas 2 Quartos para Venda em Senador Canedo, Setor Monte Azul, 2 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "21i-Casa Monte Azul em Senador_1",
+      "referencia": "21i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -1753,13 +1753,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131352342422.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4289136/casas-2-quartos-venda-senador-canedo-go-setor-monte-azul",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2021i-Casa%20Monte%20Azul%20em%20Senador_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289136/casas-2-quartos-venda-senador-canedo-go-setor-monte-azul"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2021i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289136/casas-2-quartos-venda-senador-canedo-go-setor-monte-azul"
     },
     {
       "id": "4289735",
-      "listing_id": "11i-Sobrado Jardim América Sol_1-4289735",
+      "listing_id": "11i_1-4289735",
       "titulo": "Sobrado para Venda em Goiânia, Jardim América, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas",
-      "referencia": "11i-Sobrado Jardim América Sol_1",
+      "referencia": "11i_1",
       "tipo": "Sobrado",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1796,13 +1796,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131840335366.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4289735/sobrado-venda-goiania-go-jardim-america",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2011i-Sobrado%20Jardim%20Am%C3%A9rica%20Sol_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289735/sobrado-venda-goiania-go-jardim-america"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2011i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289735/sobrado-venda-goiania-go-jardim-america"
     },
     {
       "id": "4290221",
-      "listing_id": "42i-Casas novo mundo 420 mil_1-4290221",
+      "listing_id": "42i_1-4290221",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Jardim Novo Mundo, 3 dormitórios, 2 suítes, 2 banheiros, 2 vagas",
-      "referencia": "42i-Casas novo mundo 420 mil_1",
+      "referencia": "42i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1829,13 +1829,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607141238083590.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4290221/casa-3-dormitorios-venda-goiania-go-jardim-novo-mundo",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2042i-Casas%20novo%20mundo%20420%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290221/casa-3-dormitorios-venda-goiania-go-jardim-novo-mundo"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2042i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290221/casa-3-dormitorios-venda-goiania-go-jardim-novo-mundo"
     },
     {
       "id": "4290437",
-      "listing_id": "19i-Cs Rd Bolonha 1.370.000,00_1-4290437",
+      "listing_id": "19i_1-4290437",
       "titulo": "Casa em Condomínio para Venda em Senador Canedo, Jardins Bolonha, 3 dormitórios, 3 suítes, 4 banheiros, 4 vagas",
-      "referencia": "19i-Cs Rd Bolonha 1.370.000,00_1",
+      "referencia": "19i_1",
       "tipo": "Casa em Condomínio",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -1869,13 +1869,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607141454577517.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4290437/casa-em-condominio-venda-senador-canedo-go-jardins-bolonha",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2019i-Cs%20Rd%20Bolonha%201.370.000%2C00_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290437/casa-em-condominio-venda-senador-canedo-go-jardins-bolonha"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2019i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290437/casa-em-condominio-venda-senador-canedo-go-jardins-bolonha"
     },
     {
       "id": "4290469",
-      "listing_id": "17i-Casa 02 recanto 325 mil_1-4290469",
+      "listing_id": "17i_1-4290469",
       "titulo": "Casas 2 Quartos para Venda em Goiânia, Residencial Paulo Estrela, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga",
-      "referencia": "17i-Casa 02 recanto 325 mil_1",
+      "referencia": "17i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -1912,13 +1912,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607141512436651.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4290469/casas-2-quartos-venda-goiania-go-residencial-paulo-estrela",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2017i-Casa%2002%20recanto%20325%20mil_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290469/casas-2-quartos-venda-goiania-go-residencial-paulo-estrela"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2017i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290469/casas-2-quartos-venda-goiania-go-residencial-paulo-estrela"
     },
     {
       "id": "4290574",
-      "listing_id": "14i-Casa J. Capri Rua Sálvia S_1-4290574",
+      "listing_id": "14i_1-4290574",
       "titulo": "Casa em Condomínio para Venda em Senador Canedo, Jardins Capri, 3 dormitórios, 3 suítes, 4 banheiros, 2 vagas",
-      "referencia": "14i-Casa J. Capri Rua Sálvia S_1",
+      "referencia": "14i_1",
       "tipo": "Casa em Condomínio",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -1962,13 +1962,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607141545214595.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4290574/casa-em-condominio-venda-senador-canedo-go-jardins-capri",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2014i-Casa%20J.%20Capri%20Rua%20S%C3%A1lvia%20S_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290574/casa-em-condominio-venda-senador-canedo-go-jardins-capri"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2014i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290574/casa-em-condominio-venda-senador-canedo-go-jardins-capri"
     },
     {
       "id": "4290915",
-      "listing_id": "45i-Sobrado Jardins Capri 1.54_1-4290915",
+      "listing_id": "45i_1-4290915",
       "titulo": "Sobrado em Condomínio para Venda em Senador Canedo, Jardins Capri, 4 dormitórios, 3 suítes, 4 banheiros, 2 vagas",
-      "referencia": "45i-Sobrado Jardins Capri 1.54_1",
+      "referencia": "45i_1",
       "tipo": "Sobrado",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -2018,13 +2018,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607141916576059.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4290915/sobrado-em-condominio-venda-senador-canedo-go-jardins-capri",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2045i-Sobrado%20Jardins%20Capri%201.54_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290915/sobrado-em-condominio-venda-senador-canedo-go-jardins-capri"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2045i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290915/sobrado-em-condominio-venda-senador-canedo-go-jardins-capri"
     },
     {
       "id": "4290923",
-      "listing_id": "44i-Sobrado Jardins Barcelona_1-4290923",
+      "listing_id": "44i_1-4290923",
       "titulo": "Sobrado em Condomínio para Venda em Senador Canedo, Jardins Barcelona, 5 dormitórios, 5 suítes, 6 banheiros, 4 vagas",
-      "referencia": "44i-Sobrado Jardins Barcelona_1",
+      "referencia": "44i_1",
       "tipo": "Sobrado",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -2074,13 +2074,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607141927036132.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4290923/sobrado-em-condominio-venda-senador-canedo-go-jardins-barcelona",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2044i-Sobrado%20Jardins%20Barcelona_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290923/sobrado-em-condominio-venda-senador-canedo-go-jardins-barcelona"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2044i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290923/sobrado-em-condominio-venda-senador-canedo-go-jardins-barcelona"
     },
     {
       "id": "4290940",
-      "listing_id": "13i-Casa Maria Helena 1k_1-4290940",
+      "listing_id": "13i_1-4290940",
       "titulo": "Casa 3 dormitórios para Venda em Goiânia, Jardim Maria Helena, 3 dormitórios, 3 suítes, 4 banheiros, 4 vagas",
-      "referencia": "13i-Casa Maria Helena 1k_1",
+      "referencia": "13i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -2123,13 +2123,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607141959515354.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4290940/casa-3-dormitorios-venda-goiania-go-jardim-maria-helena",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2013i-Casa%20Maria%20Helena%201k_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290940/casa-3-dormitorios-venda-goiania-go-jardim-maria-helena"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2013i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4290940/casa-3-dormitorios-venda-goiania-go-jardim-maria-helena"
     },
     {
       "id": "4291324",
-      "listing_id": "10i-Casa Jardins Porto_1-4291324",
+      "listing_id": "10i_1-4291324",
       "titulo": "Casa em Condomínio para Venda em Senador Canedo, Jardins Porto, 3 dormitórios, 3 suítes, 4 banheiros, 4 vagas",
-      "referencia": "10i-Casa Jardins Porto_1",
+      "referencia": "10i_1",
       "tipo": "Casa em Condomínio",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -2180,13 +2180,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607151104502911.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4291324/casa-em-condominio-venda-senador-canedo-go-jardins-porto",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2010i-Casa%20Jardins%20Porto_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4291324/casa-em-condominio-venda-senador-canedo-go-jardins-porto"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2010i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4291324/casa-em-condominio-venda-senador-canedo-go-jardins-porto"
     },
     {
       "id": "4294401",
-      "listing_id": "9i-Sobrado Recanto 1.300k_1-4294401",
+      "listing_id": "9i_1-4294401",
       "titulo": "Sobrado para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 3 suítes, 4 banheiros, 3 vagas",
-      "referencia": "9i-Sobrado Recanto 1.300k_1",
+      "referencia": "9i_1",
       "tipo": "Sobrado",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -2229,13 +2229,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607171805499996.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4294401/sobrado-venda-goiania-go-setor-recanto-das-minas-gerais",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%209i-Sobrado%20Recanto%201.300k_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4294401/sobrado-venda-goiania-go-setor-recanto-das-minas-gerais"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%209i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4294401/sobrado-venda-goiania-go-setor-recanto-das-minas-gerais"
     },
     {
       "id": "4294420",
-      "listing_id": "8i-Jardins Bolonha 1.550k D B_1-4294420",
+      "listing_id": "8i_1-4294420",
       "titulo": "Casa em Condomínio para Venda em Senador Canedo, Jardins Bolonha, 3 dormitórios, 3 suítes, 4 banheiros, 4 vagas",
-      "referencia": "8i-Jardins Bolonha 1.550k D B_1",
+      "referencia": "8i_1",
       "tipo": "Casa em Condomínio",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -2275,13 +2275,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607171827049940.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4294420/casa-em-condominio-venda-senador-canedo-go-jardins-bolonha",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%208i-Jardins%20Bolonha%201.550k%20D%20B_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4294420/casa-em-condominio-venda-senador-canedo-go-jardins-bolonha"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%208i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4294420/casa-em-condominio-venda-senador-canedo-go-jardins-bolonha"
     },
     {
       "id": "4301961",
-      "listing_id": "51i-Casa Jardins Nápoles 1880k_1-4301961",
+      "listing_id": "51i_1-4301961",
       "titulo": "Casa porteira fechada no Jardins Nápoles com 4 suítes e piscina",
-      "referencia": "51i-Casa Jardins Nápoles 1880k_1",
+      "referencia": "51i_1",
       "tipo": "Casa em Condomínio",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -2331,13 +2331,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607261744217948.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4301961/casa-em-condominio-venda-senador-canedo-go-jardins-napoles",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2051i-Casa%20Jardins%20N%C3%A1poles%201880k_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4301961/casa-em-condominio-venda-senador-canedo-go-jardins-napoles"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2051i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4301961/casa-em-condominio-venda-senador-canedo-go-jardins-napoles"
     },
     {
       "id": "4302751",
-      "listing_id": "6i-Apartamento Soft Pedro Ludo_1-4302751",
+      "listing_id": "6i_1-4302751",
       "titulo": "Apartamento novo no Setor Pedro Ludovico com 2 quartos e lazer completo",
-      "referencia": "6i-Apartamento Soft Pedro Ludo_1",
+      "referencia": "6i_1",
       "tipo": "Apartamento",
       "finalidade": "venda",
       "cidade": "Goiânia",
@@ -2375,13 +2375,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607271359418975.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4302751/apartamento-venda-goiania-go-setor-pedro-ludovico",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%206i-Apartamento%20Soft%20Pedro%20Ludo_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4302751/apartamento-venda-goiania-go-setor-pedro-ludovico"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%206i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4302751/apartamento-venda-goiania-go-setor-pedro-ludovico"
     },
     {
       "id": "4303749",
-      "listing_id": "46i-Casa Nova Flor do Ipê II/R_1-4303749",
+      "listing_id": "46i_1-4303749",
       "titulo": "Casa 3 dormitórios para Venda em Senador Canedo, Residencial Flor do Ipê II, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "46i-Casa Nova Flor do Ipê II/R_1",
+      "referencia": "46i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -2434,13 +2434,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607281224383567.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4303749/casa-3-dormitorios-venda-senador-canedo-go-residencial-flor-do-ipe-ii",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2046i-Casa%20Nova%20Flor%20do%20Ip%C3%AA%20II/R_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4303749/casa-3-dormitorios-venda-senador-canedo-go-residencial-flor-do-ipe-ii"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2046i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4303749/casa-3-dormitorios-venda-senador-canedo-go-residencial-flor-do-ipe-ii"
     },
     {
       "id": "4303761",
-      "listing_id": "36i-Casa Flor do Ipê I/Santilh_1-4303761",
+      "listing_id": "36i_1-4303761",
       "titulo": "Casa em Condomínio para Venda em Senador Canedo, Residencial Flor do Ipê I, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "36i-Casa Flor do Ipê I/Santilh_1",
+      "referencia": "36i_1",
       "tipo": "Casa em Condomínio",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -2489,13 +2489,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607281235283974.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4303761/casa-em-condominio-venda-senador-canedo-go-residencial-flor-do-ipe-i",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2036i-Casa%20Flor%20do%20Ip%C3%AA%20I/Santilh_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4303761/casa-em-condominio-venda-senador-canedo-go-residencial-flor-do-ipe-i"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2036i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4303761/casa-em-condominio-venda-senador-canedo-go-residencial-flor-do-ipe-i"
     },
     {
       "id": "4303948",
-      "listing_id": "52i-Casa 3 Quartos Morada do B_1-4303948",
+      "listing_id": "52i_1-4303948",
       "titulo": "Casa 3 dormitórios para Venda em Senador Canedo, Residencial Morada do Bosque, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
-      "referencia": "52i-Casa 3 Quartos Morada do B_1",
+      "referencia": "52i_1",
       "tipo": "Casa",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -2544,13 +2544,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607281447431746.jpg",
       "link": "https://www.marcusbeda.com.br/imovel/4303948/casa-3-dormitorios-venda-senador-canedo-go-residencial-morada-do-bosque",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2052i-Casa%203%20Quartos%20Morada%20do%20B_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4303948/casa-3-dormitorios-venda-senador-canedo-go-residencial-morada-do-bosque"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2052i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4303948/casa-3-dormitorios-venda-senador-canedo-go-residencial-morada-do-bosque"
     },
     {
       "id": "4313729",
-      "listing_id": "53i-Sobrado Alto Padrão Jardin_1-4313729",
+      "listing_id": "53i_1-4313729",
       "titulo": "Sobrado em Condomínio para Venda em Aparecida de Goiânia, Jardins Sevilha, 3 dormitórios, 3 suítes, 5 banheiros, 4 vagas",
-      "referencia": "53i-Sobrado Alto Padrão Jardin_1",
+      "referencia": "53i_1",
       "tipo": "Sobrado",
       "finalidade": "venda",
       "cidade": "Aparecida de Goiânia",
@@ -2594,13 +2594,13 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202608062106133914.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4313729/sobrado-em-condominio-venda-aparecida-de-goiania-go-jardins-sevilha",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2053i-Sobrado%20Alto%20Padr%C3%A3o%20Jardin_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4313729/sobrado-em-condominio-venda-aparecida-de-goiania-go-jardins-sevilha"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2053i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4313729/sobrado-em-condominio-venda-aparecida-de-goiania-go-jardins-sevilha"
     },
     {
       "id": "4317043",
-      "listing_id": "54i-_1-4317043",
+      "listing_id": "54i_1-4317043",
       "titulo": "Sobrado em Condomínio para Venda em Senador Canedo, Residencial Vale Verde, 4 dormitórios, 4 suítes, 6 banheiros, 4 vagas",
-      "referencia": "54i-_1",
+      "referencia": "54i_1",
       "tipo": "Sobrado",
       "finalidade": "venda",
       "cidade": "Senador Canedo",
@@ -2653,7 +2653,7 @@
       ],
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202608111259216337.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4317043/sobrado-em-condominio-venda-senador-canedo-go-residencial-vale-verde",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2054i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4317043/sobrado-em-condominio-venda-senador-canedo-go-residencial-vale-verde"
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2054i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4317043/sobrado-em-condominio-venda-senador-canedo-go-residencial-vale-verde"
     },
     {
       "id": "4333141",
