@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-08-29T22:21:00</PublishDate>
+								<PublishDate>2026-08-30T11:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -1892,7 +1892,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Ipê 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>75257713</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Flor do Ipê II]]></Neighborhood>
+	<Address>Rua Ipê 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.12673000</Latitude><Longitude>-16.65593000</Longitude><PostalCode>75257713</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Flor do Ipê II]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1931,7 +1931,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Ipê 19</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><PostalCode>75257641</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Flor do Ipê I]]></Neighborhood>
+	<Address>Rua Ipê 19</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><Latitude>-49.12328000</Latitude><Longitude>-16.65228000</Longitude><PostalCode>75257641</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Flor do Ipê I]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
