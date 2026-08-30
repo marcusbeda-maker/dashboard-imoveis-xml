@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-08-29T11:22:00</PublishDate>
+								<PublishDate>2026-08-29T22:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -1970,7 +1970,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua MB 17</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><PostalCode>75250626</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Morada do Bosque]]></Neighborhood>
+	<Address>Rua MB 17</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><Latitude>-49.12136000</Latitude><Longitude>-16.69751000</Longitude><PostalCode>75250626</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Morada do Bosque]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
