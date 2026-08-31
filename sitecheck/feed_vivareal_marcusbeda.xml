@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-08-30T22:21:00</PublishDate>
+								<PublishDate>2026-08-31T11:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -1814,7 +1814,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Belém</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>75254501</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
+	<Address>Rua Belém</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18132000</Latitude><Longitude>-16.69666000</Longitude><PostalCode>75254501</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -1853,7 +1853,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua 1034</Address><StreetNumber>1</StreetNumber><Complement>4 andar  Apartamento 402</Complement><PostalCode>74823190</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Pedro Ludovico]]></Neighborhood>
+	<Address>Rua 1034</Address><StreetNumber>1</StreetNumber><Complement>4 andar  Apartamento 402</Complement><Latitude>-49.26357000</Latitude><Longitude>-16.71654000</Longitude><PostalCode>74823190</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Pedro Ludovico]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Apartment</PropertyType>
