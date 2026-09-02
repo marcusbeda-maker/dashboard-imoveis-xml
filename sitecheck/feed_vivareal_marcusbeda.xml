@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-01T22:21:00</PublishDate>
+								<PublishDate>2026-09-02T11:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2146,6 +2146,84 @@
     
 </Details>
 <Media><Item medium="video"><![CDATA[https://youtu.be/lH073yEOF2U]]></Item><Item medium="image" caption="20260826140027302.jpeg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/20260826140027302.jpeg</Item><Item medium="image" caption="202608261400279505.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400279505.jpeg</Item><Item medium="image" caption="20260826140028659.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260826140028659.jpeg</Item><Item medium="image" caption="202608261400287984.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400287984.jpeg</Item><Item medium="image" caption="202608261400297218.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400297218.jpeg</Item><Item medium="image" caption="202608261400291765.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400291765.jpeg</Item><Item medium="image" caption="202608261400296661.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400296661.jpeg</Item><Item medium="image" caption="202608261400299137.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400299137.jpeg</Item><Item medium="image" caption="20260826140030526.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260826140030526.jpeg</Item><Item medium="image" caption="202608261400301200.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400301200.jpeg</Item><Item medium="image" caption="202608261400301019.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400301019.jpeg</Item><Item medium="image" caption="202608261400301590.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400301590.jpeg</Item><Item medium="image" caption="202608261400316435.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400316435.jpeg</Item><Item medium="image" caption="202608261400317601.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202608261400317601.jpeg</Item></Media>
+<ContactInfo>
+	<Name><![CDATA[MARCUS BEDA]]></Name>
+	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
+	<Email>marcusbeda@gmail.com</Email>
+	<Telephone>(62) 98116-2705</Telephone>
+	<Website>https://www.marcusbeda.com.br</Website>
+</ContactInfo>
+</Listing>
+
+<Listing>
+<ListingID>57i-_1-4339197</ListingID>
+<Title><![CDATA[Casa 3 dormitórios para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas]]></Title>
+<TransactionType>For Sale</TransactionType>
+<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4339197/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais</DetailViewUrl>
+<PublicationType>SUPER_PREMIUM</PublicationType>
+
+
+<Location displayAddress="All">
+	<Country abbreviation="BR">Brasil</Country>
+	<Address>Avenida das Flores</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.17986</Latitude><Longitude>-16.64795</Longitude><PostalCode>74785130</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+</Location>
+<Details>
+	<PropertyType>Residential / Home</PropertyType>
+	<UsageType>Residential</UsageType>
+	<Description><![CDATA[ Casa Nova no Residencial São Leopoldo - Goiânia &lt;br&gt; &lt;br&gt; 3 Quartos, Sendo 1 Suíte; &lt;br&gt; Armário planejado na cozinha &lt;br&gt; 2 Vagas de Garagem Coberta &lt;br&gt; Piso em Porcelanato; &lt;br&gt; Sala c/ Pé Direito Alto e Sanca em Gesso; &lt;br&gt; Janelas e portas em esquadrinha de Alumínio; &lt;br&gt; Área de Serviço; &lt;br&gt; Banheiro Social; &lt;br&gt; Nichos nos banheiros &lt;br&gt; &lt;br&gt; DIMENSÕES &lt;br&gt; Area Total: 135 M² &lt;br&gt; Area Construída; 102 M² &lt;br&gt; &lt;br&gt; Valor R$ 450.000,00 &lt;br&gt; &lt;br&gt; Marcus Beda - Corretor de Imóveis &lt;br&gt; Creci 23.152 &lt;br&gt; Fone 62 981162705 &lt;br&gt; www.marcusbeda.com.br &lt;br&gt; www.marcusbedacorretor.com]]></Description>
+	<Features><Feature>Maid's Quarters</Feature><Feature>Kitchen</Feature><Feature>Close to schools</Feature></Features>
+	<ListPrice currency="BRL">450000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">0</PropertyAdministrationFee>
+	
+	<LotArea unit="square metres">135</LotArea>
+	<LivingArea unit="square metres">102</LivingArea>
+	<Bedrooms>3</Bedrooms>
+	<Bathrooms>2</Bathrooms>
+	<Suites>1</Suites>
+	<YearBuilt>2026</YearBuilt>
+	<YearlyTax>500.00</YearlyTax><Iptu currency="BRL" period="Yearly">500.00</Iptu>
+	<Garage type="Garage">2</Garage>
+    
+</Details>
+<Media><Item medium="image" caption="202609020825017889.jpeg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202609020825017889.jpeg</Item><Item medium="image" caption="202609020825016184.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825016184.jpeg</Item><Item medium="image" caption="202609020825028333.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825028333.jpeg</Item><Item medium="image" caption="202609020825039767.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825039767.jpeg</Item><Item medium="image" caption="202609020825038549.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825038549.jpeg</Item><Item medium="image" caption="202609020825042624.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825042624.jpeg</Item><Item medium="image" caption="202609020825041573.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825041573.jpeg</Item><Item medium="image" caption="202609020825051457.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825051457.jpeg</Item><Item medium="image" caption="202609020825063161.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825063161.jpeg</Item><Item medium="image" caption="202609020825067141.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825067141.jpeg</Item><Item medium="image" caption="202609020825079143.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825079143.jpeg</Item><Item medium="image" caption="202609020825088084.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020825088084.jpeg</Item></Media>
+<ContactInfo>
+	<Name><![CDATA[MARCUS BEDA]]></Name>
+	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
+	<Email>marcusbeda@gmail.com</Email>
+	<Telephone>(62) 98116-2705</Telephone>
+	<Website>https://www.marcusbeda.com.br</Website>
+</ContactInfo>
+</Listing>
+
+<Listing>
+<ListingID>55i-_1-4339257</ListingID>
+<Title><![CDATA[Apartamento 2 Quartos para Venda em Goiânia, Fazenda Criméia Caveiras, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga]]></Title>
+<TransactionType>For Sale</TransactionType>
+<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4339257/apartamento-2-quartos-venda-goiania-go-fazenda-crimeia-caveiras</DetailViewUrl>
+<PublicationType>STANDARD</PublicationType>
+
+
+<Location displayAddress="All">
+	<Country abbreviation="BR">Brasil</Country>
+	<Address>Avenida Goiás</Address><StreetNumber>1</StreetNumber><Complement>13 andar</Complement><Latitude>-49.28807000</Latitude><Longitude>-16.62552000</Longitude><PostalCode>74593850</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Fazenda Criméia Caveiras]]></Neighborhood>
+</Location>
+<Details>
+	<PropertyType>Residential / Apartment</PropertyType>
+	<UsageType>Residential</UsageType>
+	<Description><![CDATA[APARTAMENTO 2 QUARTOS EM FRENTE AO SHOPPING PASSEIO DAS ÁGUAS &lt;br&gt; &lt;br&gt; Apartamento com 44 m², 2 quartos e 2 banheiros, 1 vaga de garagem, localizado no 13º andar, com orientação nascente, no Reserva das Águas. &lt;br&gt; &lt;br&gt; O imóvel apresenta sala integrada à cozinha, marcenaria planejada, cozinha com armários, bancada, pia, cooktop, geladeira e micro-ondas. A sala possui sofá, painel ripado, televisão e rack com adega. &lt;br&gt; &lt;br&gt; Os quartos possuem armários planejados; um deles conta com guarda-roupa com portas espelhadas. As imagens também mostram ar-condicionado em um dos quartos, iluminação embutida e piso claro nas áreas sociais. &lt;br&gt; &lt;br&gt; Localização informada: em frente ao Shopping Passeio das Águas, Goiânia-GO. &lt;br&gt; &lt;br&gt; Valor: R$ 515.000,00. &lt;br&gt; &lt;br&gt; Proprietário: David Primo. &lt;br&gt; &lt;br&gt; Fale com Marcus Béda CRECI 23.152-F. &lt;br&gt; CEP do imóvel: &lt;br&gt; &lt;br&gt; www.marcusbeda.com.br &lt;br&gt; www.marcusbedacorretor.com]]></Description>
+	<Features><Feature>Furnished</Feature><Feature>Fenced Yard</Feature><Feature>Maid's Quarters</Feature><Feature>Kitchen</Feature><Feature>Close to shopping centers</Feature><Feature>Close to schools</Feature></Features>
+	<ListPrice currency="BRL">515000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">500.00</PropertyAdministrationFee>
+	
+	<LotArea unit="square metres">44</LotArea>
+	<LivingArea unit="square metres">44</LivingArea>
+	<Bedrooms>2</Bedrooms>
+	<Bathrooms>2</Bathrooms>
+	<Suites>1</Suites>
+	<YearBuilt>2024</YearBuilt>
+	<YearlyTax>550.00</YearlyTax><Iptu currency="BRL" period="Yearly">550.00</Iptu>
+	<Garage type="Garage">1</Garage>
+    <UnitFloor>13</UnitFloor>
+</Details>
+<Media><Item medium="image" caption="202609020937129359.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937129359.jpg</Item><Item medium="image" caption="20260902093712588.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260902093712588.jpg</Item><Item medium="image" caption="202609020937134120.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937134120.jpg</Item><Item medium="image" caption="202609020937131592.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937131592.jpg</Item><Item medium="image" caption="202609020937131991.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937131991.jpg</Item><Item medium="image" caption="202609020937131472.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937131472.jpg</Item><Item medium="image" caption="20260902093714500.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260902093714500.jpg</Item><Item medium="image" caption="202609020937145391.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937145391.jpg</Item><Item medium="image" caption="202609020937146167.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937146167.jpg</Item><Item medium="image" caption="202609020937158322.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937158322.jpg</Item><Item medium="image" caption="202609020937151851.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937151851.jpg</Item><Item medium="image" caption="202609020937153338.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937153338.jpg</Item><Item medium="image" caption="202609020937152574.jpg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202609020937152574.jpg</Item></Media>
 <ContactInfo>
 	<Name><![CDATA[MARCUS BEDA]]></Name>
 	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
