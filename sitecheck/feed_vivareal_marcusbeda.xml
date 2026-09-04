@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-03T11:22:00</PublishDate>
+								<PublishDate>2026-09-03T22:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2224,6 +2224,45 @@
     <UnitFloor>13</UnitFloor>
 </Details>
 <Media><Item medium="image" caption="202609020937129359.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937129359.jpg</Item><Item medium="image" caption="20260902093712588.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260902093712588.jpg</Item><Item medium="image" caption="202609020937134120.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937134120.jpg</Item><Item medium="image" caption="202609020937131592.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937131592.jpg</Item><Item medium="image" caption="202609020937131991.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937131991.jpg</Item><Item medium="image" caption="202609020937131472.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937131472.jpg</Item><Item medium="image" caption="20260902093714500.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260902093714500.jpg</Item><Item medium="image" caption="202609020937145391.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937145391.jpg</Item><Item medium="image" caption="202609020937146167.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937146167.jpg</Item><Item medium="image" caption="202609020937158322.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937158322.jpg</Item><Item medium="image" caption="202609020937151851.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937151851.jpg</Item><Item medium="image" caption="202609020937153338.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609020937153338.jpg</Item><Item medium="image" caption="202609020937152574.jpg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202609020937152574.jpg</Item></Media>
+<ContactInfo>
+	<Name><![CDATA[MARCUS BEDA]]></Name>
+	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
+	<Email>marcusbeda@gmail.com</Email>
+	<Telephone>(62) 98116-2705</Telephone>
+	<Website>https://www.marcusbeda.com.br</Website>
+</ContactInfo>
+</Listing>
+
+<Listing>
+<ListingID>58i-_1-4341380</ListingID>
+<Title><![CDATA[Casa 3 dormitórios para Venda em Goiânia, Residencial Paulo Estrela, 3 dormitórios, 1 suíte, 3 banheiros, 3 vagas]]></Title>
+<TransactionType>For Sale</TransactionType>
+<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4341380/casa-3-dormitorios-venda-goiania-go-residencial-paulo-estrela</DetailViewUrl>
+<PublicationType>SUPER_PREMIUM</PublicationType>
+
+
+<Location displayAddress="All">
+	<Country abbreviation="BR">Brasil</Country>
+	<Address>Rua 5</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina</Complement><PostalCode>74786459</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Paulo Estrela]]></Neighborhood>
+</Location>
+<Details>
+	<PropertyType>Residential / Home</PropertyType>
+	<UsageType>Residential</UsageType>
+	<Description><![CDATA[Casa a Venda com Piscina, tendo 03 Quartos, sendo 1 Suíte Master, e outro Quarto com Jardim de Inverno; &lt;br&gt; Sao 156 metros de Área Construída; &lt;br&gt; Única em um LOTE de 270 metros; &lt;br&gt; Espaço de Garagem para até 3 Carros sendo 2 Cobertos; &lt;br&gt; Jardim na Frente; &lt;br&gt; Grande Sala de Estar com Pé Direito Duplo integrada a Grande Cozinha em Ilha com Grande Bancada; &lt;br&gt; 02 Banheiros internos; &lt;br&gt; ótimo Espaço de Lazer com Área Gourmet Ampla com Churrasqueira Revestida no Porcelanato; &lt;br&gt; Espaço para Ducha; &lt;br&gt; Piscina com Cascata mais Hidromassagem e Lavabo integrado à Área de Serviço; &lt;br&gt; Iluminação toda com Leds e Croicas; &lt;br&gt; Construção Moderna com Acabamento Premium; &lt;br&gt; (Atenção a foto da piscina pronto é ilustrativa e uma sugestão)* &lt;br&gt; Localizada no Residencial PAULO ESTRELA em Goiânia, com uma Ótima Localização na Região Leste. &lt;br&gt; &lt;br&gt; VALOR:R$ 780.000,00 &lt;br&gt; &lt;br&gt; Marcus Beda &lt;br&gt; Creci 23152 &lt;br&gt; fone 62!981162705 &lt;br&gt; www.marcusbeda.com.br &lt;br&gt; www.marcusbedacorretor.com &lt;br&gt; &lt;br&gt; Pontos Fortes: Casa possui um espaço de lazer com piscina, ducha e área gourmet.]]></Description>
+	<Features><Feature>Maid's Quarters</Feature><Feature>Kitchen</Feature><Feature>Close to schools</Feature></Features>
+	<ListPrice currency="BRL">780000</ListPrice>
+	
+	<LotArea unit="square metres">270</LotArea>
+	<LivingArea unit="square metres">156</LivingArea>
+	<Bedrooms>3</Bedrooms>
+	<Bathrooms>3</Bathrooms>
+	<Suites>1</Suites>
+	
+	<YearlyTax>600.00</YearlyTax><Iptu currency="BRL" period="Yearly">600.00</Iptu>
+	<Garage type="Garage">3</Garage>
+    
+</Details>
+<Media><Item medium="video"><![CDATA[https://youtube.com/shorts/gWs4Jmp3IIw?is=oe6e9-m_1II62zlW]]></Item><Item medium="image" caption="202609031816503256.png" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202609031816503256.png</Item><Item medium="image" caption="202609031809092305.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809092305.jpeg</Item><Item medium="image" caption="202609031809104092.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809104092.jpeg</Item><Item medium="image" caption="202609031809108091.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809108091.jpeg</Item><Item medium="image" caption="202609031809102097.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809102097.jpeg</Item><Item medium="image" caption="202609031809103349.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809103349.jpeg</Item><Item medium="image" caption="20260903180911882.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260903180911882.jpeg</Item><Item medium="image" caption="202609031809116397.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809116397.jpeg</Item><Item medium="image" caption="202609031809118578.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809118578.jpeg</Item><Item medium="image" caption="202609031809119347.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809119347.jpeg</Item><Item medium="image" caption="202609031809124598.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809124598.jpeg</Item><Item medium="image" caption="202609031809127240.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809127240.jpeg</Item><Item medium="image" caption="202609031809122712.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809122712.jpeg</Item><Item medium="image" caption="20260903180913917.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260903180913917.jpeg</Item><Item medium="image" caption="202609031809138567.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809138567.jpeg</Item><Item medium="image" caption="202609031809134183.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809134183.jpeg</Item><Item medium="image" caption="202609031809135158.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809135158.jpeg</Item><Item medium="image" caption="202609031809146523.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809146523.jpeg</Item><Item medium="image" caption="202609031809141633.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809141633.jpeg</Item><Item medium="image" caption="202609031809143378.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809143378.jpeg</Item><Item medium="image" caption="202609031809154342.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809154342.jpeg</Item><Item medium="image" caption="202609031809151186.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809151186.jpeg</Item><Item medium="image" caption="202609031809159986.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809159986.jpeg</Item><Item medium="image" caption="202609031809164722.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809164722.jpeg</Item><Item medium="image" caption="202609031809166064.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809166064.jpeg</Item><Item medium="image" caption="202609031809161710.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809161710.jpeg</Item><Item medium="image" caption="20260903180916670.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260903180916670.jpeg</Item><Item medium="image" caption="202609031809172165.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809172165.jpeg</Item><Item medium="image" caption="20260903181648798.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260903181648798.png</Item><Item medium="image" caption="202609031809096671.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609031809096671.jpeg</Item></Media>
 <ContactInfo>
 	<Name><![CDATA[MARCUS BEDA]]></Name>
 	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
