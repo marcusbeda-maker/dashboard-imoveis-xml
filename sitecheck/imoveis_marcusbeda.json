@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-09-05T17:59:38+00:00",
-    "total": 58,
+    "gerado_em_utc": "2026-09-06T06:57:57+00:00",
+    "total": 59,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -2881,6 +2881,46 @@
       "imagem_principal": "https://youtube.com/shorts/gWs4Jmp3IIw?is=oe6e9-m_1II62zlW",
       "link": "https://www.marcusbeda.com.br/imovel/4341380/casa-3-dormitorios-venda-goiania-go-residencial-paulo-estrela",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2058i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4341380/casa-3-dormitorios-venda-goiania-go-residencial-paulo-estrela"
+    },
+    {
+      "id": "4343005",
+      "listing_id": "59-_1-4343005",
+      "titulo": "Casas 2 Quartos para Venda em Goiânia, Residencial Sonho Dourado, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga",
+      "referencia": "59-_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Goiânia",
+      "bairro": "Residencial Sonho Dourado",
+      "endereco": "Rua Herculina Marques de Abreu",
+      "numero": "1",
+      "complemento": "Casa",
+      "cep": "74781001",
+      "valor": "R$ 340.000",
+      "valor_num": 340000,
+      "dormitorios": "2",
+      "banheiros": "2",
+      "vagas": "1",
+      "suites": "1",
+      "area_privativa": "87 m²",
+      "area_total": "91 m²",
+      "area_terreno": "91 m²",
+      "descricao": "Pontos Fortes: Localização, acabamento e valor",
+      "imagens": [
+        "https://youtube.com/shorts/eN5TK5qq7NA?is=cB2ztdKxEtgPyV_c",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609051905469841.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609051905511613.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609051905543886.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609051905574949.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20260905190604424.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609051906085724.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609051906126028.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609051906159419.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609051906182763.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609051906202390.png"
+      ],
+      "imagem_principal": "https://youtube.com/shorts/eN5TK5qq7NA?is=cB2ztdKxEtgPyV_c",
+      "link": "https://www.marcusbeda.com.br/imovel/4343005/casas-2-quartos-venda-goiania-go-residencial-sonho-dourado",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2059-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4343005/casas-2-quartos-venda-goiania-go-residencial-sonho-dourado"
     }
   ]
 }
