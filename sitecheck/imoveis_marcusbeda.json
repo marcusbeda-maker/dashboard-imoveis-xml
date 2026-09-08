@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-09-07T19:41:39+00:00",
-    "total": 59,
+    "gerado_em_utc": "2026-09-08T07:02:32+00:00",
+    "total": 60,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -2921,6 +2921,56 @@
       "imagem_principal": "https://youtube.com/shorts/eN5TK5qq7NA?is=cB2ztdKxEtgPyV_c",
       "link": "https://www.marcusbeda.com.br/imovel/4343005/casas-2-quartos-venda-goiania-go-residencial-sonho-dourado",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2059-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4343005/casas-2-quartos-venda-goiania-go-residencial-sonho-dourado"
+    },
+    {
+      "id": "4343377",
+      "listing_id": "60i-Casa Recanto de esquina_1-4343377",
+      "titulo": "Casa 3 dormitórios para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
+      "referencia": "60i-Casa Recanto de esquina_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Goiânia",
+      "bairro": "Setor Recanto das Minas Gerais",
+      "endereco": "Avenida das Flores",
+      "numero": "1",
+      "complemento": "Casa de esquina com Piscina",
+      "cep": "74785130",
+      "valor": "R$ 680.000",
+      "valor_num": 680000,
+      "dormitorios": "3",
+      "banheiros": "2",
+      "vagas": "2",
+      "suites": "1",
+      "area_privativa": "140 m²",
+      "area_total": "194 m²",
+      "area_terreno": "194 m²",
+      "descricao": "Casa no Recanto das Minas Gerais Nova de esquina com piscina Com 03 Quartos sendo um suíte; Sala; Cozinha; Área gourmet; Hall; banheiro social; sao 2 portões de entrada; Garagem para 2 carros; Área construída 140 metros; Fração do lote 193,60 metros; Valor de Venda 680 mil Marcus Beda Creci 23.152 www.marcusbeda.com.br www.marcusbedacorretor.com Pontos Fortes: Ótima localização, portões duplos, casa de esquina com piscina",
+      "imagens": [
+        "https://youtube.com/shorts/tiGLlAZwe9g?is=rwUbkMyVmOR89U8l",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325014673.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325018541.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/2026090713250194.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325029672.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325022144.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325024703.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325038782.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325038785.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325038385.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325034009.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325044062.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325049644.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325049541.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325049998.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325053864.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325058537.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325051257.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325053502.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325062256.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609071325067193.jpeg"
+      ],
+      "imagem_principal": "https://youtube.com/shorts/tiGLlAZwe9g?is=rwUbkMyVmOR89U8l",
+      "link": "https://www.marcusbeda.com.br/imovel/4343377/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2060i-Casa%20Recanto%20de%20esquina_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4343377/casa-3-dormitorios-venda-goiania-go-setor-recanto-das-minas-gerais"
     }
   ]
 }
