@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-09T22:21:00</PublishDate>
+								<PublishDate>2026-09-10T11:23:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -1697,7 +1697,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua São Francisco</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>75255438</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Porto]]></Neighborhood>
+	<Address>Rua São Francisco</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.13120000</Latitude><Longitude>-16.70774000</Longitude><PostalCode>75255438</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Porto]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
