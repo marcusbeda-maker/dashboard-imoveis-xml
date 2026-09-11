@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-10T22:21:00</PublishDate>
+								<PublishDate>2026-09-11T11:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -1385,7 +1385,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua dos Angelins</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>75251092</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
+	<Address>Rua dos Angelins</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.12322000</Latitude><Longitude>-16.78730000</Longitude><PostalCode>75251092</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -1424,7 +1424,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua 4</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74786456</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Paulo Estrela]]></Neighborhood>
+	<Address>Rua 4</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18494000</Latitude><Longitude>-16.65903000</Longitude><PostalCode>74786456</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Paulo Estrela]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1463,7 +1463,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Sálvia</Address><StreetNumber>1</StreetNumber><Complement>Casa trrea</Complement><PostalCode>75251328</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
+	<Address>Rua Sálvia</Address><StreetNumber>1</StreetNumber><Complement>Casa trrea</Complement><Latitude>-49.10175000</Latitude><Longitude>-16.69474000</Longitude><PostalCode>75251328</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -2204,7 +2204,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Herculina Marques de Abreu</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74781001</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Sonho Dourado]]></Neighborhood>
+	<Address>Rua Herculina Marques de Abreu</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.19852000</Latitude><Longitude>-16.65517000</Longitude><PostalCode>74781001</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Sonho Dourado]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
