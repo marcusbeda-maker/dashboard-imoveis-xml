@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-11T22:21:00</PublishDate>
+								<PublishDate>2026-09-12T11:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -1034,7 +1034,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Alameda Turquia</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><PostalCode>75263253</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Terras Alpha Residencial 2]]></Neighborhood>
+	<Address>Alameda Turquia</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-49.12032000</Latitude><Longitude>-16.70701000</Longitude><PostalCode>75263253</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Terras Alpha Residencial 2]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Land Lot</PropertyType>
@@ -1151,7 +1151,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Aryana Guimarães</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><PostalCode>74775104</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Carlos de Freitas]]></Neighborhood>
+	<Address>Rua Aryana Guimarães</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-49.29738000</Latitude><Longitude>-16.63568000</Longitude><PostalCode>74775104</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Carlos de Freitas]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Land Lot</PropertyType>
@@ -1268,7 +1268,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Avenida Liberdade</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><PostalCode>74730010</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Conjunto Riviera]]></Neighborhood>
+	<Address>Avenida Liberdade</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><Latitude>-49.21389000</Latitude><Longitude>-16.69480000</Longitude><PostalCode>74730010</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Conjunto Riviera]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1307,7 +1307,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Tiradentes</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>75262616</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Setor Monte Azul]]></Neighborhood>
+	<Address>Rua Tiradentes</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.08540000</Latitude><Longitude>-16.73659000</Longitude><PostalCode>75262616</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Setor Monte Azul]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1346,7 +1346,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua C 166</Address><StreetNumber>1</StreetNumber><Complement>sobrado</Complement><PostalCode>74250230</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim América]]></Neighborhood>
+	<Address>Rua C 166</Address><StreetNumber>1</StreetNumber><Complement>sobrado</Complement><Latitude>-49.29322000</Latitude><Longitude>-16.71971000</Longitude><PostalCode>74250230</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim América]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
