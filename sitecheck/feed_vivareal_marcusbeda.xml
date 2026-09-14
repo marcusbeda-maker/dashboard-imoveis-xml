@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-13T22:22:00</PublishDate>
+								<PublishDate>2026-09-14T11:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -956,7 +956,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Lima</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74705080</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
+	<Address>Rua Lima</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.21618000</Latitude><Longitude>-16.66683000</Longitude><PostalCode>74705080</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -995,7 +995,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua SR 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74785460</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+	<Address>Rua SR 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18252000</Latitude><Longitude>-16.64467000</Longitude><PostalCode>74785460</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
