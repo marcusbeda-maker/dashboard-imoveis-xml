@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-19T22:21:00</PublishDate>
+								<PublishDate>2026-09-20T11:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2204,7 +2204,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Açucena</Address><StreetNumber>1</StreetNumber><Complement>Casa subtrrea</Complement><PostalCode>75254176</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
+	<Address>Rua Açucena</Address><StreetNumber>1</StreetNumber><Complement>Casa subtrrea</Complement><Latitude>-49.12362000</Latitude><Longitude>-16.80688000</Longitude><PostalCode>75254176</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -2243,7 +2243,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua JC 6</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina</Complement><PostalCode>75250341</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Jardim Canedo II]]></Neighborhood>
+	<Address>Rua JC 6</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina</Complement><Latitude>-49.11868000</Latitude><Longitude>-16.69989000</Longitude><PostalCode>75250341</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Jardim Canedo II]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
