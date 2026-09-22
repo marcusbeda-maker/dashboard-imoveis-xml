@@ -2,7 +2,7 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-09-21T20:18:31+00:00",
+    "gerado_em_utc": "2026-09-22T07:28:59+00:00",
     "total": 58,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
@@ -1335,39 +1335,6 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131157215849.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4288989/lote-em-condominio-fechado-venda-senador-canedo-go-terras-alpha-residencial-2",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2041i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4288989/lote-em-condominio-fechado-venda-senador-canedo-go-terras-alpha-residencial-2"
-    },
-    {
-      "id": "4289022",
-      "listing_id": "43i_1-4289022",
-      "titulo": "Lote em Condomínio Fechado para Venda em Goiânia, Jardins França",
-      "referencia": "43i_1",
-      "tipo": "Lote",
-      "finalidade": "venda",
-      "cidade": "Goiânia",
-      "bairro": "Jardins França",
-      "endereco": "Rua Macon",
-      "numero": "1",
-      "complemento": "Lote",
-      "cep": "74886182",
-      "valor": "R$ 943.000",
-      "valor_num": 943000,
-      "dormitorios": "0",
-      "banheiros": "0",
-      "vagas": "0",
-      "suites": "0",
-      "area_privativa": "410 m²",
-      "area_total": "410 m²",
-      "area_terreno": "410 m²",
-      "descricao": "Lote disponível com otimo valor no Jardins França proximo as quadras de de areias. faça seu contato agora e aproveite um dos melhores lotes com otimo custo benefício.",
-      "imagens": [
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607131224363162.jpeg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607131224361788.jpeg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607131224374528.jpeg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607131224381529.jpeg"
-      ],
-      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607131224363162.jpeg",
-      "link": "https://www.marcusbeda.com.br/imovel/4289022/lote-em-condominio-fechado-venda-goiania-go-jardins-franca",
-      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2043i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4289022/lote-em-condominio-fechado-venda-goiania-go-jardins-franca"
     },
     {
       "id": "4289044",
@@ -2887,6 +2854,48 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202609191509496873.png",
       "link": "https://www.marcusbeda.com.br/imovel/4355564/casa-3-dormitorios-venda-senador-canedo-go-residencial-jardim-canedo-ii",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2042i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4355564/casa-3-dormitorios-venda-senador-canedo-go-residencial-jardim-canedo-ii"
+    },
+    {
+      "id": "4356687",
+      "listing_id": "43i-_1-4356687",
+      "titulo": "Casa 3 dormitórios para Venda em Senador Canedo, Residencial Marilia, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
+      "referencia": "43i-_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Senador Canedo",
+      "bairro": "Residencial Marilia",
+      "endereco": "Rua Morrinhos",
+      "numero": "2",
+      "complemento": "Casa",
+      "cep": "75254659",
+      "valor": "R$ 480.000",
+      "valor_num": 480000,
+      "dormitorios": "3",
+      "banheiros": "2",
+      "vagas": "2",
+      "suites": "1",
+      "area_privativa": "106 m²",
+      "area_total": "195 m²",
+      "area_terreno": "195 m²",
+      "descricao": "Casa semi nova, localiza no Residencial Marília ao Lado da Vila Galvão é divisa com Goiânia, aceita financiamento. 03 quartos sendo um suíte já com armários planejados na suíte e um quarto; banheiro com Box; Sala com pé direito alto e com painel e rack na parede; Cozinha com bancada e com planejados; area gourmet ampla, área de serviço separada da área gourmet; eapaco amplo no fundo; Garagem; Marcus Béda Creci 23.152F fone 62.981162705 www.marcusbeda.com.br www.marcusbedacorretor.com",
+      "imagens": [
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517215510.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517261981.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517273139.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517288784.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517295715.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517302297.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517313095.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517315285.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517323691.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517347973.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517397863.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517451171.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609211517515767.png"
+      ],
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202609211517215510.png",
+      "link": "https://www.marcusbeda.com.br/imovel/4356687/casa-3-dormitorios-venda-senador-canedo-go-residencial-marilia",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2043i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4356687/casa-3-dormitorios-venda-senador-canedo-go-residencial-marilia"
     }
   ]
 }
