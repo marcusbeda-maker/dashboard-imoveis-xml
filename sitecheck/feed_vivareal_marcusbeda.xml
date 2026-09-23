@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-22T22:21:00</PublishDate>
+								<PublishDate>2026-09-23T11:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -176,7 +176,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Carnaúba</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74885100</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Mariliza]]></Neighborhood>
+	<Address>Rua Carnaúba</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.20698000</Latitude><Longitude>-16.73695000</Longitude><PostalCode>74885100</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Mariliza]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -332,7 +332,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua SR 5</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74785720</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+	<Address>Rua SR 5</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18894000</Latitude><Longitude>-16.63786000</Longitude><PostalCode>74785720</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -527,7 +527,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua 2</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74620320</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Vila Morais]]></Neighborhood>
+	<Address>Rua 2</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.22418000</Latitude><Longitude>-16.66662000</Longitude><PostalCode>74620320</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Vila Morais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -644,7 +644,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
+	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175000</Latitude><Longitude>-16.69474000</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -683,7 +683,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua JB 6</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74594160</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Jardim Belvedere Expansão]]></Neighborhood>
+	<Address>Rua JB 6</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.31066000</Latitude><Longitude>-16.62635000</Longitude><PostalCode>74594160</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Jardim Belvedere Expansão]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -722,7 +722,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Morrinhos</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>75254473</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Marilia]]></Neighborhood>
+	<Address>Rua Morrinhos</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18683000</Latitude><Longitude>-16.69828000</Longitude><PostalCode>75254473</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Marilia]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -995,7 +995,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
+	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-49.10175000</Latitude><Longitude>-16.69474000</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Land Lot</PropertyType>
@@ -1112,7 +1112,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Sorocaba</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><PostalCode>74715490</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
+	<Address>Rua Sorocaba</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-49.22926000</Latitude><Longitude>-16.69386000</Longitude><PostalCode>74715490</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Land Lot</PropertyType>
@@ -1599,7 +1599,7 @@
 	<Garage type="Garage">4</Garage>
     
 </Details>
-<Media><Item medium="image" caption="202607261744217948.jpg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202607261744217948.jpg</Item><Item medium="image" caption="20260726174421649.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260726174421649.jpg</Item><Item medium="image" caption="20260726174422265.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260726174422265.jpg</Item><Item medium="image" caption="202607261744221651.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744221651.jpg</Item><Item medium="image" caption="202607261744221046.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744221046.jpg</Item><Item medium="image" caption="202607261744227805.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744227805.jpg</Item><Item medium="image" caption="202607261744224436.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744224436.jpg</Item><Item medium="image" caption="20260726174422438.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260726174422438.jpg</Item><Item medium="image" caption="202607261744225940.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744225940.jpg</Item><Item medium="image" caption="20260726174423920.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260726174423920.jpg</Item><Item medium="image" caption="202607261744235413.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744235413.jpg</Item><Item medium="image" caption="202607261744235421.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744235421.jpg</Item><Item medium="image" caption="202607261744232877.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744232877.jpg</Item><Item medium="image" caption="202607261744238945.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744238945.jpg</Item><Item medium="image" caption="202607261744235986.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744235986.jpg</Item><Item medium="image" caption="202607261744238687.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744238687.jpg</Item><Item medium="image" caption="202607261744248243.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744248243.jpg</Item><Item medium="image" caption="202607261744244573.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744244573.jpg</Item><Item medium="image" caption="202607261744248471.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744248471.jpg</Item><Item medium="image" caption="202607261744242134.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744242134.jpg</Item><Item medium="image" caption="202607261744248639.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744248639.jpg</Item><Item medium="image" caption="202607261744249816.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744249816.jpg</Item><Item medium="image" caption="202607261744246224.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744246224.jpg</Item><Item medium="image" caption="202607261744253687.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744253687.jpg</Item><Item medium="image" caption="202607261744259899.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744259899.jpg</Item><Item medium="image" caption="202607261744253561.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744253561.jpg</Item><Item medium="image" caption="202607261744259410.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744259410.jpg</Item></Media>
+<Media><Item medium="image" caption="202609230925407275.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609230925407275.png</Item><Item medium="image" caption="202609230925444911.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609230925444911.png</Item><Item medium="image" caption="202607261744221651.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744221651.jpg</Item><Item medium="image" caption="202607261744224436.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744224436.jpg</Item><Item medium="image" caption="20260726174422438.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260726174422438.jpg</Item><Item medium="image" caption="202607261744225940.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744225940.jpg</Item><Item medium="image" caption="20260726174423920.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260726174423920.jpg</Item><Item medium="image" caption="202607261744235421.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744235421.jpg</Item><Item medium="image" caption="202607261744232877.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744232877.jpg</Item><Item medium="image" caption="202607261744235986.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744235986.jpg</Item><Item medium="image" caption="202607261744238687.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744238687.jpg</Item><Item medium="image" caption="202607261744248243.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744248243.jpg</Item><Item medium="image" caption="202607261744244573.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744244573.jpg</Item><Item medium="image" caption="202607261744248471.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744248471.jpg</Item><Item medium="image" caption="202607261744242134.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744242134.jpg</Item><Item medium="image" caption="202607261744248639.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744248639.jpg</Item><Item medium="image" caption="202607261744249816.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744249816.jpg</Item><Item medium="image" caption="202607261744246224.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744246224.jpg</Item><Item medium="image" caption="202607261744253687.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744253687.jpg</Item><Item medium="image" caption="202607261744259899.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744259899.jpg</Item><Item medium="image" caption="202607261744253561.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744253561.jpg</Item><Item medium="image" caption="202607261744259410.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202607261744259410.jpg</Item><Item medium="image" caption="202609230939435053.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609230939435053.png</Item><Item medium="image" caption="202609230939597244.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609230939597244.png</Item><Item medium="image" caption="202609230940033576.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609230940033576.png</Item><Item medium="image" caption="202607261744217948.jpg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202607261744217948.jpg</Item><Item medium="image" caption="20260726174421649.jpg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260726174421649.jpg</Item></Media>
 <ContactInfo>
 	<Name><![CDATA[MARCUS BEDA]]></Name>
 	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>

@@ -2,7 +2,7 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-09-23T14:08:05+00:00",
+    "gerado_em_utc": "2026-09-23T19:33:16+00:00",
     "total": 58,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
@@ -2045,20 +2045,15 @@
       "area_terreno": "360 m²",
       "descricao": "Casa em condomínio no Jardins Nápoles, em Senador Canedo-GO, com 4 suítes, área de lazer e venda porteira fechada. Imóvel moderno e completo, com 198 m² de construção em lote de 360 m². O projeto oferece ambientes integrados, excelente padrão de acabamento e espaços planejados para conforto e praticidade. São 4 suítes, 5 banheiros, sala integrada, cozinha planejada, área gourmet, piscina e ambientes bem distribuídos para receber a família e os amigos. Venda porteira fechada, incluindo móveis, eletrodomésticos, decoração e ar-condicionado, conforme informado pelo responsável. Valor de venda: R$ 1.880.000,00.",
       "imagens": [
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744217948.jpg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/20260726174421649.jpg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/20260726174422265.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609230925407275.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609230925444911.png",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744221651.jpg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744221046.jpg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744227805.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744224436.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/20260726174422438.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744225940.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/20260726174423920.jpg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744235413.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744235421.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744232877.jpg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744238945.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744235986.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744238687.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744248243.jpg",
@@ -2071,9 +2066,14 @@
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744253687.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744259899.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202607261744253561.jpg",
-        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744259410.jpg"
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744259410.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609230939435053.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609230939597244.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609230940033576.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202607261744217948.jpg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20260726174421649.jpg"
       ],
-      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202607261744217948.jpg",
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202609230925407275.png",
       "link": "https://www.marcusbeda.com.br/imovel/4301961/casa-em-condominio-venda-senador-canedo-go-jardins-napoles",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2051i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4301961/casa-em-condominio-venda-senador-canedo-go-jardins-napoles"
     },
