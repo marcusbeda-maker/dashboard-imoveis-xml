@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-09-23T19:33:16+00:00",
-    "total": 58,
+    "gerado_em_utc": "2026-09-24T07:24:50+00:00",
+    "total": 59,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -2896,6 +2896,53 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202609211517215510.png",
       "link": "https://www.marcusbeda.com.br/imovel/4356687/casa-3-dormitorios-venda-senador-canedo-go-residencial-marilia",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2043i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4356687/casa-3-dormitorios-venda-senador-canedo-go-residencial-marilia"
+    },
+    {
+      "id": "4358941",
+      "listing_id": "14i-_1-4358941",
+      "titulo": "Casa 3 dormitórios para Venda em Goiânia, Residencial Havaí, 3 dormitórios, 2 suítes, 4 banheiros, 3 vagas",
+      "referencia": "14i-_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Goiânia",
+      "bairro": "Residencial Havaí",
+      "endereco": "Rua H 1",
+      "numero": "1",
+      "complemento": "Casa com piscina mobiliada",
+      "cep": "74781150",
+      "valor": "R$ 1.500.000",
+      "valor_num": 1500000,
+      "dormitorios": "3",
+      "banheiros": "4",
+      "vagas": "3",
+      "suites": "2",
+      "area_privativa": "200 m²",
+      "area_total": "360 m²",
+      "area_terreno": "360 m²",
+      "descricao": "*Casa Térrea - Alto Padrão* Porteira Fechada Residencial Havai Goiânia 360m2 lote 200m2 construção Pronta para morar 3 quartos, sendo 2 suítes Cozinha Banheiro social Lavabo Garagem para 3 veiculos Área Gourmet Piscina aquecida com cascata, hidromassagem,iluminação e Deck Área de serviço automatizada ( Alexa ) Janelas com persiana autorizadas nos 3/4 *R$ 1.500.000,00 Marcus Beda Corretor de Imóveis Creci 23.152 F www.marcusbeda.com.br www.marcusbedacorretor.com Fone 62.981162705",
+      "imagens": [
+        "https://youtube.com/shorts/QYktuXi5c_M?is=SROtCAZpqXEkG3CE",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445105279.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445136883.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445152578.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445174226.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445177212.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445175458.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445176659.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445186384.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445187070.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445187384.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445181005.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445181827.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445186870.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445183028.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20260923144519582.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445191182.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609231445195368.jpeg"
+      ],
+      "imagem_principal": "https://youtube.com/shorts/QYktuXi5c_M?is=SROtCAZpqXEkG3CE",
+      "link": "https://www.marcusbeda.com.br/imovel/4358941/casa-3-dormitorios-venda-goiania-go-residencial-havai",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2014i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4358941/casa-3-dormitorios-venda-goiania-go-residencial-havai"
     }
   ]
 }
