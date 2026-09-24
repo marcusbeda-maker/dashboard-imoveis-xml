@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-09-24T14:06:07+00:00",
-    "total": 59,
+    "gerado_em_utc": "2026-09-24T19:52:34+00:00",
+    "total": 60,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -2943,6 +2943,53 @@
       "imagem_principal": "https://youtube.com/shorts/QYktuXi5c_M?is=SROtCAZpqXEkG3CE",
       "link": "https://www.marcusbeda.com.br/imovel/4358941/casa-3-dormitorios-venda-goiania-go-residencial-havai",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2014i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4358941/casa-3-dormitorios-venda-goiania-go-residencial-havai"
+    },
+    {
+      "id": "4359552",
+      "listing_id": "63i-_1-4359552",
+      "titulo": "Casa 3 dormitórios para Venda em Goiânia, Residencial Havaí, 3 dormitórios, 1 suíte, 3 banheiros, 3 vagas",
+      "referencia": "63i-_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Goiânia",
+      "bairro": "Residencial Havaí",
+      "endereco": "Rua H 10",
+      "numero": "1",
+      "complemento": "Casa com Piscina",
+      "cep": "74781185",
+      "valor": "R$ 980.000",
+      "valor_num": 980000,
+      "dormitorios": "3",
+      "banheiros": "3",
+      "vagas": "3",
+      "suites": "1",
+      "area_privativa": "160 m²",
+      "area_total": "260 m²",
+      "area_terreno": "260 m²",
+      "descricao": "Casa térrea de alto padrão no Residencial Havaí! Na Região leste opção para quem não acha no Jao, mais mora próximo, ao lado da BR153 é antiga Agetop, acesso rápido ao aeroporto é região central. Nova é aceita financiamento. 165m² de construção Lote de 260m² 3 quartos, sendo 1 suíte com closet Banheiro social + lavabo Escritório Garagem para 4 veículos Área gourmet Piscina de vinil, aquecida e com cascata, hidromassagem e deck A foto da piscina é meramente ilustrativa, a foto verdadeira é a inacabada.* Obs: BRINDE e sem garantia Fechadura eletrônica e Coifa R$ 980.000,00 Marcus Béda Corretor de Imóveis Creci 23.152 Fone 62.981162705 www.marcusbeda.com.br www.marcusbedacorretor.com",
+      "imagens": [
+        "https://youtu.be/1v1HiZdhF88?is=_mCsiRQNaOhyxrf-",
+        "https://www.marcusbeda.com.br/imagens/imoveis/2026092409254774.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240925526667.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240925568739.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240925584581.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20260924092601801.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926058373.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926109902.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926132233.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926162812.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926199342.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926198831.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926191762.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926193117.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926192203.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926196425.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926202195.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202609240926203206.jpeg"
+      ],
+      "imagem_principal": "https://youtu.be/1v1HiZdhF88?is=_mCsiRQNaOhyxrf-",
+      "link": "https://www.marcusbeda.com.br/imovel/4359552/casa-3-dormitorios-venda-goiania-go-residencial-havai",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2063i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4359552/casa-3-dormitorios-venda-goiania-go-residencial-havai"
     }
   ]
 }
