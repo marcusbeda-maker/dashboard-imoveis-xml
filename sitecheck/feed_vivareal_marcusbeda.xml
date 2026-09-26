@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-25T22:22:00</PublishDate>
+								<PublishDate>2026-09-26T11:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2360,7 +2360,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua GR20</Address><StreetNumber>1</StreetNumber><Complement>Apto Grande Retiro</Complement><PostalCode>74766043</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Loteamento Grande Retiro]]></Neighborhood>
+	<Address>Rua GR20</Address><StreetNumber>1</StreetNumber><Complement>Apto Grande Retiro</Complement><Latitude>-49.17984000</Latitude><Longitude>-16.66377000</Longitude><PostalCode>74766043</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Loteamento Grande Retiro]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Apartment</PropertyType>
