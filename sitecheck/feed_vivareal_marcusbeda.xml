@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-27T11:21:00</PublishDate>
+								<PublishDate>2026-09-27T22:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -1268,7 +1268,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua dos Angelins</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.12322000</Latitude><Longitude>-16.78730000</Longitude><PostalCode>75251092</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
+	<Address>Rua dos Angelins</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.12322</Latitude><Longitude>-16.7873</Longitude><PostalCode>75251092</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -1346,7 +1346,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Amarílis</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175000</Latitude><Longitude>-16.69474000</Longitude><PostalCode>75251356</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
+	<Address>Rua Amarílis</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175</Latitude><Longitude>-16.69474</Longitude><PostalCode>75251356</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -1385,7 +1385,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Aragón</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175000</Latitude><Longitude>-16.69474000</Longitude><PostalCode>75255466</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Barcelona]]></Neighborhood>
+	<Address>Rua Aragón</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175</Latitude><Longitude>-16.69474</Longitude><PostalCode>75255466</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Barcelona]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -1463,13 +1463,13 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua São Francisco</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.13120000</Latitude><Longitude>-16.70774000</Longitude><PostalCode>75255438</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Porto]]></Neighborhood>
+	<Address>Rua São Francisco</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.1312</Latitude><Longitude>-16.70774</Longitude><PostalCode>75255438</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Porto]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
 	<UsageType>Residential</UsageType>
 	<Description><![CDATA[*6.5k O METRO QUADRADO, O PREÇO MAIS ATRATIVO DA REGIÃO* !!! &lt;br&gt; &lt;br&gt; *É pra vender essa semana!!!*  &lt;br&gt; &lt;br&gt; Casa no Condomínio Jardins Porto &lt;br&gt; &lt;br&gt; Terreno: 300m &lt;br&gt; Área Construída: 200m &lt;br&gt; &lt;br&gt; Casa sub-terrea com 03 suítes plenas sendo uma master com closet, sala e cozinha no Térreo. &lt;br&gt; &lt;br&gt; No Subsolo uma ampla área de lazer com churrasqueira, piscina aquecida com hidromassagem e lavabo para atender a área de churrasco.  &lt;br&gt; &lt;br&gt; Água aquecida nos chuveiros e torneiras. &lt;br&gt; &lt;br&gt; Previsão para Energia Solar. &lt;br&gt; &lt;br&gt; Garagem para 02 carros cobertos. &lt;br&gt; &lt;br&gt; Acabamento de luxo com Porcelanato de 1.20 X 1.20 - pedras como Preto São Gabriel Escovado, Travertino Romano, bancada da cozinha e mesa no Mármore Michelângelo e cubas esculpidas em mármore nos banheiros. &lt;br&gt; &lt;br&gt; De: R$1.550.000,00 com permuta &lt;br&gt; *Por: R$1.299.000,00 sem permuta]]></Description>
-	<Features><Feature>Maid's Quarters</Feature><Feature>Kitchen</Feature><Feature>Close to schools</Feature></Features>
+	<Features><Feature>Maid's Quarters</Feature><Feature>Fenced Yard</Feature><Feature>Kitchen</Feature><Feature>Close to schools</Feature></Features>
 	<ListPrice currency="BRL">1299000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">600.00</PropertyAdministrationFee>
 	
 	<LotArea unit="square metres">300</LotArea>
@@ -1541,7 +1541,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua das Quaresmeiras</Address><StreetNumber>1</StreetNumber><Complement>Casa D B</Complement><Latitude>-49.15398000</Latitude><Longitude>-16.79071000</Longitude><PostalCode>75251118</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
+	<Address>Rua das Quaresmeiras</Address><StreetNumber>1</StreetNumber><Complement>Casa D B</Complement><Latitude>-49.15398</Latitude><Longitude>-16.79071</Longitude><PostalCode>75251118</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -1580,7 +1580,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Belém</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18132000</Latitude><Longitude>-16.69666000</Longitude><PostalCode>75254501</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
+	<Address>Rua Belém</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18132</Latitude><Longitude>-16.69666</Longitude><PostalCode>75254501</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -2165,7 +2165,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Açucena</Address><StreetNumber>1</StreetNumber><Complement>Casa subtrrea</Complement><Latitude>-49.12362000</Latitude><Longitude>-16.80688000</Longitude><PostalCode>75254176</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
+	<Address>Rua Açucena</Address><StreetNumber>1</StreetNumber><Complement>Casa subtrrea</Complement><Latitude>-49.12362</Latitude><Longitude>-16.80688</Longitude><PostalCode>75254176</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -2321,7 +2321,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua H 10</Address><StreetNumber>1</StreetNumber><Complement>Casa com Piscina</Complement><Latitude>-49.20272000</Latitude><Longitude>-16.65181000</Longitude><PostalCode>74781185</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Havaí]]></Neighborhood>
+	<Address>Rua H 10</Address><StreetNumber>1</StreetNumber><Complement>Casa com Piscina</Complement><Latitude>-49.20272</Latitude><Longitude>-16.65181</Longitude><PostalCode>74781185</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Havaí]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
