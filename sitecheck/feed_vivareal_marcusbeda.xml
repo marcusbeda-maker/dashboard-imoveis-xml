@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-09-28T11:22:00</PublishDate>
+								<PublishDate>2026-09-28T22:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -800,14 +800,14 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua CV 08</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.21495000</Latitude><Longitude>-16.69787000</Longitude><PostalCode>74736063</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Village Campos Verdes]]></Neighborhood>
+	<Address>Rua CV 08</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.21495</Latitude><Longitude>-16.69787</Longitude><PostalCode>74736063</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Village Campos Verdes]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
 	<UsageType>Residential</UsageType>
 	<Description><![CDATA[Casa de 03 Quartos sendo 1 Suíte; &lt;br&gt; e 1 com Jardim de Inverno; &lt;br&gt; com 135 metros de Área Construída; &lt;br&gt; Sala Ampla; &lt;br&gt; Banheiro Social; &lt;br&gt; Quartos de solteiro na Parte superior; &lt;br&gt; Cozinha Rica em Bancadas de Granito integrada a Sala de Jantar mais Área de Serviço na Parte de Baixo; &lt;br&gt; Iluminação em Leds Sobrepor e Croicas; &lt;br&gt; Espaço Gourmet com Churrasqueira Revestida no Porcelanato integrada a Garagem; &lt;br&gt; Portão Basculante, Construção premium. &lt;br&gt; &lt;br&gt; Localizadas no Residencial Village Campos Verdes ao Lado do Jardim Novo Mundo Região Leste de Goiânia-GO. &lt;br&gt; &lt;br&gt; VALOR R$ 500.000,00 &lt;br&gt; &lt;br&gt; Pontos Fortes: Localização ótima, próximo ao paço municipal e preço de senador canedo. Excelente custo benefício.]]></Description>
 	<Features><Feature>Electronic Gate</Feature><Feature>Maid's Quarters</Feature><Feature>Kitchen</Feature><Feature>Close to schools</Feature></Features>
-	<ListPrice currency="BRL">500000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">0</PropertyAdministrationFee>
+	<ListPrice currency="BRL">530000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">0</PropertyAdministrationFee>
 	
 	<LotArea unit="square metres">140</LotArea>
 	<LivingArea unit="square metres">135</LivingArea>
