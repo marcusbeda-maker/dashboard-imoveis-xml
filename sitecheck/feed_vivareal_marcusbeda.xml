@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-10-05T11:22:00</PublishDate>
+								<PublishDate>2026-10-05T22:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -644,17 +644,17 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175000</Latitude><Longitude>-16.69474000</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
+	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175</Latitude><Longitude>-16.69474</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
 	<UsageType>Residential</UsageType>
-	<Description><![CDATA[Sobrado &lt;br&gt; &lt;br&gt; Área do terreno 410 M2 &lt;br&gt; Área construída 280 M2 &lt;br&gt; &lt;br&gt; Parte superior &lt;br&gt; &lt;br&gt; 3 suítes sendo uma master com closet e hidromassagem &lt;br&gt; Saca frontal &lt;br&gt; Solarium de frente pra área de lazer &lt;br&gt; Sala de TV &lt;br&gt; &lt;br&gt; Parte Inferior &lt;br&gt; &lt;br&gt; 1 suíte &lt;br&gt; Sala de estar &lt;br&gt; Sala de jantar &lt;br&gt; Cozinha &lt;br&gt; Área gourmet &lt;br&gt; Lavabo &lt;br&gt; Área de serviço &lt;br&gt; Garagem coberta para 2 Veiculos &lt;br&gt; Acesso lateral para mais 3 veículos &lt;br&gt; Piscina aquecida com deck &lt;br&gt; &lt;br&gt; Todos banheiros e pias com preparação para água quente &lt;br&gt; Todo trabalhado em sacas iluminadas &lt;br&gt; Fachada frontal em pedra &lt;br&gt; Calçada frontal em pedra portuguesa &lt;br&gt; Hall de entrada com pé direito duplo &lt;br&gt; Porcelanato &lt;br&gt; Quintal gramado &lt;br&gt; &lt;br&gt; Sujeito a alterações de valor sem aviso prévio. &lt;br&gt; &lt;br&gt; Contato &lt;br&gt; Marcus Beda &lt;br&gt; Corretor de Imóveis &lt;br&gt; Creci 23.152 &lt;br&gt; Fone 62.98116-2705 &lt;br&gt; &lt;br&gt; Condomínio Residencial Vale Verde]]></Description>
+	<Description><![CDATA[Sobrado no Condomínio Vale Verde em Senador Canedo, a margens da Go-403, muito proximo a Goiânia a tambem ao lado do Jardins Napoles (FGR) &lt;br&gt; &lt;br&gt; Área do terreno 440 M2 &lt;br&gt; Área construída 300 M2 &lt;br&gt; &lt;br&gt; Parte superior &lt;br&gt; &lt;br&gt; 3 suítes sendo uma master com closet e hidromassagem &lt;br&gt; Saca frontal &lt;br&gt; Solarium de frente pra área de lazer &lt;br&gt; Sala de TV &lt;br&gt; &lt;br&gt; Parte Inferior &lt;br&gt; &lt;br&gt; 1 suíte &lt;br&gt; Sala de estar &lt;br&gt; Sala de jantar &lt;br&gt; Cozinha &lt;br&gt; Área gourmet &lt;br&gt; Lavabo &lt;br&gt; Área de serviço &lt;br&gt; Garagem coberta para 2 Veiculos &lt;br&gt; Acesso lateral para mais 3 veículos &lt;br&gt; Piscina aquecida com deck &lt;br&gt; &lt;br&gt; Todos banheiros e pias com preparação para água quente &lt;br&gt; Todo trabalhado em sacas iluminadas &lt;br&gt; Fachada frontal em pedra &lt;br&gt; Calçada frontal em pedra portuguesa &lt;br&gt; Hall de entrada com pé direito duplo &lt;br&gt; Porcelanato &lt;br&gt; Quintal gramado &lt;br&gt; &lt;br&gt; Sujeito a alterações de valor sem aviso prévio. &lt;br&gt; &lt;br&gt; Contato &lt;br&gt; Marcus Beda &lt;br&gt; Corretor de Imóveis &lt;br&gt; Creci 23.152 &lt;br&gt; Fone 62.98116-2705 &lt;br&gt; &lt;br&gt; Condomínio Residencial Vale Verde]]></Description>
 	<Features><Feature>Maid's Quarters</Feature><Feature>Copa</Feature><Feature>Kitchen</Feature><Feature>Close to schools</Feature></Features>
 	<ListPrice currency="BRL">1800000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">600.00</PropertyAdministrationFee>
 	
-	<LotArea unit="square metres">410</LotArea>
-	<LivingArea unit="square metres">240</LivingArea>
+	<LotArea unit="square metres">440</LotArea>
+	<LivingArea unit="square metres">300</LivingArea>
 	<Bedrooms>4</Bedrooms>
 	<Bathrooms>5</Bathrooms>
 	<Suites>4</Suites>
@@ -2204,7 +2204,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua JC 6</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina</Complement><Latitude>-49.11868000</Latitude><Longitude>-16.69989000</Longitude><PostalCode>75250341</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Jardim Canedo II]]></Neighborhood>
+	<Address>Rua JC 6</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina</Complement><Latitude>-49.11868</Latitude><Longitude>-16.69989</Longitude><PostalCode>75250341</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Jardim Canedo II]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2243,7 +2243,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Morrinhos</Address><StreetNumber>2</StreetNumber><Complement>Casa</Complement><Latitude>-49.18353000</Latitude><Longitude>-16.69574000</Longitude><PostalCode>75254659</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Marilia]]></Neighborhood>
+	<Address>Rua Morrinhos</Address><StreetNumber>2</StreetNumber><Complement>Casa</Complement><Latitude>-49.18353</Latitude><Longitude>-16.69574</Longitude><PostalCode>75254659</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Marilia]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2282,7 +2282,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua H 1</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina mobiliada</Complement><Latitude>-49.20409000</Latitude><Longitude>-16.65212000</Longitude><PostalCode>74781150</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Havaí]]></Neighborhood>
+	<Address>Rua H 1</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina mobiliada</Complement><Latitude>-49.20409</Latitude><Longitude>-16.65212</Longitude><PostalCode>74781150</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Havaí]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2360,7 +2360,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua GR20</Address><StreetNumber>1</StreetNumber><Complement>Apto Grande Retiro</Complement><Latitude>-49.17984000</Latitude><Longitude>-16.66377000</Longitude><PostalCode>74766043</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Loteamento Grande Retiro]]></Neighborhood>
+	<Address>Rua GR20</Address><StreetNumber>1</StreetNumber><Complement>Apto Grande Retiro</Complement><Latitude>-49.17984</Latitude><Longitude>-16.66377</Longitude><PostalCode>74766043</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Loteamento Grande Retiro]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Apartment</PropertyType>
@@ -2380,6 +2380,84 @@
     <UnitFloor>3</UnitFloor>
 </Details>
 <Media><Item medium="image" caption="202609251314062949.jpeg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202609251314062949.jpeg</Item><Item medium="image" caption="202609251314078759.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314078759.jpeg</Item><Item medium="image" caption="202609251314072585.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314072585.jpeg</Item><Item medium="image" caption="202609251314073872.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314073872.jpeg</Item><Item medium="image" caption="202609251314074737.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314074737.jpeg</Item><Item medium="image" caption="202609251314074541.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314074541.jpeg</Item><Item medium="image" caption="202609251314071011.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314071011.jpeg</Item><Item medium="image" caption="202609251314088803.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314088803.jpeg</Item><Item medium="image" caption="202609251314082593.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314082593.jpeg</Item><Item medium="image" caption="20260925131408819.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260925131408819.jpeg</Item><Item medium="image" caption="202609251314088260.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314088260.jpeg</Item><Item medium="image" caption="202609251314088757.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314088757.jpeg</Item><Item medium="image" caption="202609251314096675.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314096675.jpeg</Item><Item medium="image" caption="202609251314091493.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314091493.jpeg</Item><Item medium="image" caption="202609251314094077.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314094077.jpeg</Item><Item medium="image" caption="202609251314096469.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314096469.jpeg</Item><Item medium="image" caption="20260925131409213.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20260925131409213.jpeg</Item><Item medium="image" caption="202609251314096387.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314096387.jpeg</Item><Item medium="image" caption="202609251314108366.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314108366.jpeg</Item><Item medium="image" caption="202609251314102108.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314102108.jpeg</Item><Item medium="image" caption="202609251314101400.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314101400.jpeg</Item><Item medium="image" caption="202609251314105043.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314105043.jpeg</Item><Item medium="image" caption="202609251314107612.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202609251314107612.jpeg</Item></Media>
+<ContactInfo>
+	<Name><![CDATA[MARCUS BEDA]]></Name>
+	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
+	<Email>marcusbeda@gmail.com</Email>
+	<Telephone>(62) 98116-2705</Telephone>
+	<Website>https://www.marcusbeda.com.br</Website>
+</ContactInfo>
+</Listing>
+
+<Listing>
+<ListingID>65i-_1-4368454</ListingID>
+<Title><![CDATA[Casa em Condomínio para Venda em Goiânia, Residencial Goiânia Golfe Clube, 3 dormitórios, 4 banheiros, 4 vagas]]></Title>
+<TransactionType>For Sale</TransactionType>
+<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4368454/casa-em-condominio-venda-goiania-go-residencial-goiania-golfe-clube</DetailViewUrl>
+<PublicationType>SUPER_PREMIUM</PublicationType>
+
+
+<Location displayAddress="All">
+	<Country abbreviation="BR">Brasil</Country>
+	<Address>Rua GGC16</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.20968</Latitude><Longitude>-16.73608</Longitude><PostalCode>74884731</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Goiânia Golfe Clube]]></Neighborhood>
+</Location>
+<Details>
+	<PropertyType>Residential / Condo</PropertyType>
+	<UsageType>Residential</UsageType>
+	<Description><![CDATA[Condomínio Portal do Sol Garden Golf &lt;br&gt; &lt;br&gt; Vendo excelente Casa térrea nova , completa em marcenaria , casa toda inteligente e automatizada. &lt;br&gt; &lt;br&gt; Lote : 567 metros quadrados . &lt;br&gt; Construção : 290 metros quadrados com piscina. &lt;br&gt; &lt;br&gt; Projeto diferenciado, moderno, inovador, funcional, assinado pelo renomado arquiteto Leandro Francis ( Estúdio LF arquitetura ) reconhecido como um dos melhores arquitetos do Brasil com vários projetos e prêmios internacionais. &lt;br&gt; &lt;br&gt; Acabamento diferenciado de excelente qualidade. &lt;br&gt; &lt;br&gt; 3 suítes plenas + espaço para escritório , sendo 2 suítes com closet e claraboia. &lt;br&gt; Casa toda Automatizada no comando de voz (Alexa) com interruptores de touch inteligente. &lt;br&gt; Usina de geração própria de energia já homologado. &lt;br&gt; Repleta em armários , entregue com moveis Planejados de excelente qualidade em todos os ambientes ( cozinha , área gourmet, área de serviço , dispensa , 3 suítes , escritório, closet e banheiros . &lt;br&gt; Jardim todo automatizado. &lt;br&gt; &lt;br&gt; Esquadrias de alumínio e vidros temperado automatizadas nas 3 suites. &lt;br&gt; Porcelanato 1,20x1,20 , vigas protendidas na fachada , pé direito duplo &lt;br&gt; Água quente e nicho em todos os banheiros, cozinha, área gourmet e lavabo. &lt;br&gt; Churrasqueira a carvão revestida de pedra natural. &lt;br&gt; Piscina toda no porcelanato com pedra natural, aquecida com energia solar, hidromassagem, prainha, iluminação em led , banheiro externo, cascata toda revestida na pedra natural com um lindo jardim suspenso e ducha. &lt;br&gt; Deck de madeira natural todo no ipê em volta da piscina. &lt;br&gt; Paisagismo com toda iluminação pronta já com plantas adultas, bastante área verde em volta da piscina e da casa. &lt;br&gt; Projeto luminotécnico pronto em todos os ambientes da casa, led. &lt;br&gt; Garagem para 6 carros sendo 3 cobertos. &lt;br&gt; Balcão, pia e banheiros com mármore importado. &lt;br&gt; Torneiras com Monocomando de água fria/quente instaladas em todos os ambientes . &lt;br&gt; Casa de Gás para gás industrial com toda tubulação pronta. &lt;br&gt; Granitina nas calçadas externas e internas. &lt;br&gt; Tubulação de ar condicionado toda pronto. &lt;br&gt; luz natural em todos os ambientes . &lt;br&gt; &lt;br&gt; Construída com muito carinho para pessoas exigentes e especiais , pensando nos mínimos detalhes para o conforto e praticidade do dia a dia , com bastante espaço na área de lazer para desfrutar com os amigos e familiares sem tirar a liberdade das partes internas da casa. &lt;br&gt; &lt;br&gt; Excelente oportunidade , podendo ser financiado por qualquer banco, pelo investimento de R$ R$3500.000,00 &lt;br&gt; &lt;br&gt; Residencial Portal do Sol Garden Golf, o condomínio com alta valorização em Goiânia nos últimos anos , um excelente investimento para morar ou alugar.]]></Description>
+	<Features><Feature>Heating</Feature><Feature>Fenced Yard</Feature><Feature>Maid's Quarters</Feature><Feature>Copa</Feature><Feature>Kitchen</Feature><Feature>Pantry</Feature></Features>
+	<ListPrice currency="BRL">3500000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">1000.00</PropertyAdministrationFee>
+	
+	<LotArea unit="square metres">567</LotArea>
+	<LivingArea unit="square metres">269</LivingArea>
+	<Bedrooms>3</Bedrooms>
+	<Bathrooms>4</Bathrooms>
+	<Suites>0</Suites>
+	
+	<YearlyTax>1000.00</YearlyTax><Iptu currency="BRL" period="Yearly">1000.00</Iptu>
+	<Garage type="Garage">4</Garage>
+    
+</Details>
+<Media><Item medium="image" caption="202610051252047300.jpeg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202610051252047300.jpeg</Item><Item medium="image" caption="202610051252041036.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252041036.jpeg</Item><Item medium="image" caption="202610051252042521.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252042521.jpeg</Item><Item medium="image" caption="202610051252058917.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252058917.jpeg</Item><Item medium="image" caption="202610051252055907.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252055907.jpeg</Item><Item medium="image" caption="202610051252055580.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252055580.jpeg</Item><Item medium="image" caption="202610051252057212.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252057212.jpeg</Item><Item medium="image" caption="202610051252058448.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252058448.jpeg</Item><Item medium="image" caption="202610051252058063.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252058063.jpeg</Item><Item medium="image" caption="202610051252067672.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252067672.jpeg</Item><Item medium="image" caption="202610051252067255.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252067255.jpeg</Item><Item medium="image" caption="202610051252069372.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051252069372.jpeg</Item></Media>
+<ContactInfo>
+	<Name><![CDATA[MARCUS BEDA]]></Name>
+	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
+	<Email>marcusbeda@gmail.com</Email>
+	<Telephone>(62) 98116-2705</Telephone>
+	<Website>https://www.marcusbeda.com.br</Website>
+</ContactInfo>
+</Listing>
+
+<Listing>
+<ListingID>64i-_1-4368462</ListingID>
+<Title><![CDATA[Casa em Condomínio para Venda em Goiânia, Residencial Goiânia Golfe Clube, 4 dormitórios, 4 suítes, 5 banheiros, 4 vagas]]></Title>
+<TransactionType>For Sale</TransactionType>
+<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4368462/casa-em-condominio-venda-goiania-go-residencial-goiania-golfe-clube</DetailViewUrl>
+<PublicationType>SUPER_PREMIUM</PublicationType>
+
+
+<Location displayAddress="All">
+	<Country abbreviation="BR">Brasil</Country>
+	<Address>Rua GGC31</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74884764</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Goiânia Golfe Clube]]></Neighborhood>
+</Location>
+<Details>
+	<PropertyType>Residential / Condo</PropertyType>
+	<UsageType>Residential</UsageType>
+	<Description><![CDATA[Condomínio Portal do Sol Green Golf &lt;br&gt; &lt;br&gt; &lt;br&gt; Vendo excelente Casa térrea nova , com fachada imponente bem diferenciada , completa em marcenaria , casa toda inteligente e automatizada. &lt;br&gt; &lt;br&gt; Lote : 475 metros quadrados . &lt;br&gt; Construção : 250 metros quadrados com piscina. &lt;br&gt; &lt;br&gt; Projeto diferenciado, moderno, inovador, funcional, assinado pelo renomado arquiteto Leandro Francis ( Estúdio LF arquitetura ) reconhecido como um dos melhores arquitetos do Brasil com vários projetos e prêmios internacionais. &lt;br&gt; &lt;br&gt; Acabamento diferenciado de excelente qualidade. &lt;br&gt; &lt;br&gt; 4 suítes plenas sendo a master com closet , todas com janelão até o chão. &lt;br&gt; Casa toda Automatizada no comando de voz (Alexa) com interruptores de touch inteligente. &lt;br&gt; Usina de geração própria de energia de 600 kva. &lt;br&gt; Repleta em armários , entregue com moveis Planejados de excelente qualidade em todos os ambientes ( cozinha , área gourmet, área de serviço , dispensa , 4 suítes , closet e banheiros . &lt;br&gt; Jardim todo automatizado. &lt;br&gt; &lt;br&gt; Esquadrias de alumínio tipo janelão até o chão com vidros temperado automatizadas nas 4 suites. &lt;br&gt; Sala , cozinha e gourmet toda de vidro, com janelas de 6 metros de altura com abertura total , com persianas automatizadas. &lt;br&gt; Porcelanato 1,20x1,20 , vigas protendidas na fachada com pé direito duplo &lt;br&gt; Água quente e nicho em todos os banheiros, cozinha, área gourmet e lavabo. &lt;br&gt; Churrasqueira a carvão revestida de pedra natural. &lt;br&gt; Piscina toda no porcelanato com pedra natural, aquecida com energia solar, hidromassagem, prainha, iluminação em led , banheiro externo, cascata toda revestida na pedra natural com um lindo jardim suspenso e ducha. &lt;br&gt; Deck de madeira natural todo no ipê em volta da piscina. &lt;br&gt; Paisagismo com toda iluminação pronta já com plantas adultas. &lt;br&gt; Projeto luminotécnico pronto em todos os ambientes da casa, led. &lt;br&gt; Garagem para 4 carros sendo 2 cobertos. &lt;br&gt; Balcão, pia e banheiros com mármore importado. &lt;br&gt; Torneiras com Monocomando de água fria/quente instaladas em todos os ambientes . &lt;br&gt; Casa de Gás para gás industrial com toda tubulação pronta. &lt;br&gt; Granitina nas calçadas externas e internas. &lt;br&gt; Tubulação de ar condicionado toda pronto. &lt;br&gt; luz natural em todos os ambientes . &lt;br&gt; Ótima localização dentro do condomínio , próximo à portaria. &lt;br&gt; &lt;br&gt; Construída com muito carinho para pessoas exigentes e especiais , pensando nos mínimos detalhes para o conforto e praticidade do dia a dia , com bastante espaço na área de lazer para desfrutar com os amigos e familiares sem tirar a liberdade das partes internas da casa. &lt;br&gt; &lt;br&gt; Excelente oportunidade , podendo ser financiado por qualquer banco, pelo investimento de R$ R$3690.000,00 &lt;br&gt; &lt;br&gt; Res]]></Description>
+	<Features><Feature>Fenced Yard</Feature><Feature>Maid's Quarters</Feature><Feature>Copa</Feature><Feature>Kitchen</Feature><Feature>Pantry</Feature></Features>
+	<ListPrice currency="BRL">3690000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">1050.00</PropertyAdministrationFee>
+	
+	<LotArea unit="square metres">475</LotArea>
+	<LivingArea unit="square metres">250</LivingArea>
+	<Bedrooms>4</Bedrooms>
+	<Bathrooms>5</Bathrooms>
+	<Suites>4</Suites>
+	
+	<YearlyTax>1100.00</YearlyTax><Iptu currency="BRL" period="Yearly">1100.00</Iptu>
+	<Garage type="Garage">4</Garage>
+    
+</Details>
+<Media><Item medium="image" caption="202610051301203098.jpeg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202610051301203098.jpeg</Item><Item medium="image" caption="202610051301209594.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301209594.jpeg</Item><Item medium="image" caption="202610051301212142.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301212142.jpeg</Item><Item medium="image" caption="202610051301192673.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301192673.jpeg</Item><Item medium="image" caption="20261005130121463.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261005130121463.jpeg</Item><Item medium="image" caption="202610051301214764.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301214764.jpeg</Item><Item medium="image" caption="202610051301227999.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301227999.jpeg</Item><Item medium="image" caption="20261005130122133.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261005130122133.jpeg</Item><Item medium="image" caption="202610051301226686.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301226686.jpeg</Item><Item medium="image" caption="202610051301223392.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301223392.jpeg</Item><Item medium="image" caption="202610051301232702.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301232702.jpeg</Item><Item medium="image" caption="202610051301232344.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301232344.jpeg</Item><Item medium="image" caption="202610051301233523.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301233523.jpeg</Item><Item medium="image" caption="202610051301249924.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301249924.jpeg</Item><Item medium="image" caption="202610051301247085.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301247085.jpeg</Item><Item medium="image" caption="202610051301252972.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301252972.jpeg</Item><Item medium="image" caption="202610051301254642.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301254642.jpeg</Item><Item medium="image" caption="202610051301266476.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301266476.jpeg</Item><Item medium="image" caption="202610051301261553.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301261553.jpeg</Item><Item medium="image" caption="20261005130127770.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261005130127770.jpeg</Item><Item medium="image" caption="202610051301272617.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301272617.jpeg</Item><Item medium="image" caption="202610051301279163.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301279163.jpeg</Item><Item medium="image" caption="202610051301282075.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610051301282075.jpeg</Item></Media>
 <ContactInfo>
 	<Name><![CDATA[MARCUS BEDA]]></Name>
 	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
