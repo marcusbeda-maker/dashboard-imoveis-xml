@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-10-05T22:21:00</PublishDate>
+								<PublishDate>2026-10-06T11:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2438,7 +2438,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua GGC31</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74884764</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Goiânia Golfe Clube]]></Neighborhood>
+	<Address>Rua GGC31</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18089000</Latitude><Longitude>-16.75047000</Longitude><PostalCode>74884764</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Goiânia Golfe Clube]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
