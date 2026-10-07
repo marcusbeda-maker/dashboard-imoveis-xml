@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-10-06T20:50:42+00:00",
-    "total": 63,
+    "gerado_em_utc": "2026-10-07T08:18:46+00:00",
+    "total": 64,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -3163,6 +3163,40 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202610051301203098.jpeg",
       "link": "https://www.marcusbeda.com.br/imovel/4368462/casa-em-condominio-venda-goiania-go-residencial-goiania-golfe-clube",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2064i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4368462/casa-em-condominio-venda-goiania-go-residencial-goiania-golfe-clube"
+    },
+    {
+      "id": "4369628",
+      "listing_id": "22i-_1-4369628",
+      "titulo": "Casas 2 Quartos para Venda em Goiânia, Setor Recanto das Minas Gerais, 2 dormitórios, 1 suíte, 2 banheiros, 1 vaga",
+      "referencia": "22i-_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Goiânia",
+      "bairro": "Setor Recanto das Minas Gerais",
+      "endereco": "Rua SR 33",
+      "numero": "1",
+      "complemento": "Contraesquina",
+      "cep": "74785460",
+      "valor": "R$ 310.000",
+      "valor_num": 310000,
+      "dormitorios": "2",
+      "banheiros": "2",
+      "vagas": "1",
+      "suites": "1",
+      "area_privativa": "70 m²",
+      "area_total": "90 m²",
+      "area_terreno": "90 m²",
+      "descricao": "Casa Nova 02 Quartos no Recanto das Minas Gerais em Goiânia Ótima localização, região rica em Comércio. Com 02 quartos sendo um suíte Sala Cozinha Banheiro social Área de serviço Garagem com área gourmet Valor de Venda 310.000,00 area de lote 90 metros Marcus Béda Corretor de Imóveis Creci 23.152 Fone 62.981162705 Pontos Fortes: Ótima localização",
+      "imagens": [
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610061338086887.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20261006133812608.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610061338162241.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610061338237434.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610061338272355.png"
+      ],
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202610061338086887.png",
+      "link": "https://www.marcusbeda.com.br/imovel/4369628/casas-2-quartos-venda-goiania-go-setor-recanto-das-minas-gerais",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2022i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4369628/casas-2-quartos-venda-goiania-go-setor-recanto-das-minas-gerais"
     }
   ]
 }
