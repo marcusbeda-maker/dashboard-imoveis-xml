@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-10-07T16:10:44+00:00",
-    "total": 64,
+    "gerado_em_utc": "2026-10-08T08:35:18+00:00",
+    "total": 65,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -1957,8 +1957,8 @@
       "numero": "1",
       "complemento": "Sobrado",
       "cep": "74785292",
-      "valor": "R$ 1.300.000",
-      "valor_num": 1300000,
+      "valor": "R$ 1.580.000",
+      "valor_num": 1580000,
       "dormitorios": "3",
       "banheiros": "4",
       "vagas": "3",
@@ -3197,6 +3197,47 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202610061338086887.png",
       "link": "https://www.marcusbeda.com.br/imovel/4369628/casas-2-quartos-venda-goiania-go-setor-recanto-das-minas-gerais",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2022i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4369628/casas-2-quartos-venda-goiania-go-setor-recanto-das-minas-gerais"
+    },
+    {
+      "id": "4371240",
+      "listing_id": "61i-_1-4371240",
+      "titulo": "Casas 2 Quartos para Venda em Goiânia, Residencial Belo Horizonte, 2 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
+      "referencia": "61i-_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Goiânia",
+      "bairro": "Residencial Belo Horizonte",
+      "endereco": "Rua BH2",
+      "numero": "1",
+      "complemento": "Casa 1",
+      "cep": "74785743",
+      "valor": "R$ 370.000",
+      "valor_num": 370000,
+      "dormitorios": "2",
+      "banheiros": "2",
+      "vagas": "2",
+      "suites": "1",
+      "area_privativa": "91 m²",
+      "area_total": "152 m²",
+      "area_terreno": "152 m²",
+      "descricao": "Casa Nova aceita financiamento localizada no Residencial Belo Horizonte em Goiânia na região leste ao lado do recanto das Minas Gerais. Com 02 Quartos sendo um suíte; Sala e cozinha integrada; Banheiro Social; Área de serviço; Espaço no fundo; Garagem; Área gourmet; 370 mil Marcus Béda Corretor de imóveis Creci 23.152F Www.marcusbedacorretor.com 62-981162705",
+      "imagens": [
+        "https://www.marcusbeda.com.br/imagens/imoveis/20261007173040929.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610071730431092.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610071730474195.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/2026100717304932.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610071730532202.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610071730573431.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610071731016256.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610071731054712.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610071731091420.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20261007173113280.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20261007173115802.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/2026100717311791.png"
+      ],
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/20261007173040929.png",
+      "link": "https://www.marcusbeda.com.br/imovel/4371240/casas-2-quartos-venda-goiania-go-residencial-belo-horizonte",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2061i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4371240/casas-2-quartos-venda-goiania-go-residencial-belo-horizonte"
     }
   ]
 }

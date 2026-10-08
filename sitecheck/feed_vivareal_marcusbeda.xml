@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-10-07T11:22:00</PublishDate>
+								<PublishDate>2026-10-07T22:21:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -1502,14 +1502,14 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Avenida do Ouro</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.18370000</Latitude><Longitude>-16.65107000</Longitude><PostalCode>74785292</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+	<Address>Avenida do Ouro</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.1837</Latitude><Longitude>-16.65107</Longitude><PostalCode>74785292</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
 	<UsageType>Residential</UsageType>
 	<Description><![CDATA[Sobrado de Alto Padrão à Venda Recanto das Minas Gerais Goiânia Apresentamos este magnífico sobrado de alto padrão, localizado no tradicional Recanto das Minas Gerais, uma das regiões mais valorizadas de Goiânia. Um imóvel novo, com projeto moderno, acabamento premium e preparado para oferecer conforto, tecnologia e sofisticação para toda a família. Com 300 m² de terreno e 190,99 m² de área construída, este sobrado foi cuidadosamente planejado para proporcionar ambientes amplos, funcionais e elegantes. Além disso, já está preparado para automação residencial, compatível com Alexa e Google Home, trazendo mais praticidade ao seu dia a dia. A localização é um dos grandes diferenciais, estando próximo ao Shopping Flamboyant, aeroporto, escolas, supermercados, comércios e ao centro de Goiânia, oferecendo excelente mobilidade e qualidade de vida. Destaques do imóvel: * 300 m² de terreno;* 190,99 m² de área construída;* 03 suítes, sendo 02 no pavimento superior e 01 no térreo;* Sala de TV integrada à sala de jantar;* Sala íntima com sacada e guarda-corpo em aço inox;* Lavabo;* Cozinha integrada à área gourmet;* Área gourmet completa;* Piscina com hidromassagem;* Aquecimento solar;* Água quente nos banheiros e na cozinha;* Área de serviço independente;* Despensa;* Garagem para até 03 veículos;* Portão social para pedestres;* Sistema de infraestrutura pronto para instalação de ar-condicionado (aparelhos não inclusos). Acabamentos e diferenciais: * Acabamento premium;* Rodapés embutidos;* Escada em granito;* Corrimão em aço inox;* Lustres instalados nas salas;* Pintura cristalizada em diversos ambientes;* Paisagismo completo;* Cerca elétrica;* Sistema de câmeras de segurança;* Imóvel novo, pronto para morar. Aceita financiamento bancário. Se você procura um imóvel moderno, elegante, seguro e com excelente localização, este sobrado reúne tudo o que há de melhor em conforto, tecnologia e qualidade construtiva.Valor de venda 1.300.000,00 Agende sua visita e venha conhecer de perto este excelente imóvel!]]></Description>
 	<Features><Feature>Massage Room</Feature><Feature>Spa</Feature><Feature>Maid's Quarters</Feature><Feature>Copa</Feature><Feature>Kitchen</Feature><Feature>Pantry</Feature><Feature>Close to shopping centers</Feature><Feature>Close to schools</Feature></Features>
-	<ListPrice currency="BRL">1300000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">0</PropertyAdministrationFee>
+	<ListPrice currency="BRL">1580000</ListPrice><PropertyAdministrationFee currency="BRL" period="Monthly">0</PropertyAdministrationFee>
 	
 	<LotArea unit="square metres">300</LotArea>
 	<LivingArea unit="square metres">190</LivingArea>
@@ -2497,6 +2497,45 @@
     
 </Details>
 <Media><Item medium="image" caption="202610061338086887.png" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202610061338086887.png</Item><Item medium="image" caption="20261006133812608.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261006133812608.png</Item><Item medium="image" caption="202610061338162241.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610061338162241.png</Item><Item medium="image" caption="202610061338237434.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610061338237434.png</Item><Item medium="image" caption="202610061338272355.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610061338272355.png</Item></Media>
+<ContactInfo>
+	<Name><![CDATA[MARCUS BEDA]]></Name>
+	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
+	<Email>marcusbeda@gmail.com</Email>
+	<Telephone>(62) 98116-2705</Telephone>
+	<Website>https://www.marcusbeda.com.br</Website>
+</ContactInfo>
+</Listing>
+
+<Listing>
+<ListingID>61i-_1-4371240</ListingID>
+<Title><![CDATA[Casas 2 Quartos para Venda em Goiânia, Residencial Belo Horizonte, 2 dormitórios, 1 suíte, 2 banheiros, 2 vagas]]></Title>
+<TransactionType>For Sale</TransactionType>
+<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4371240/casas-2-quartos-venda-goiania-go-residencial-belo-horizonte</DetailViewUrl>
+<PublicationType>STANDARD</PublicationType>
+
+
+<Location displayAddress="All">
+	<Country abbreviation="BR">Brasil</Country>
+	<Address>Rua BH2</Address><StreetNumber>1</StreetNumber><Complement>Casa 1</Complement><PostalCode>74785743</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Belo Horizonte]]></Neighborhood>
+</Location>
+<Details>
+	<PropertyType>Residential / Home</PropertyType>
+	<UsageType>Residential</UsageType>
+	<Description><![CDATA[Casa Nova aceita financiamento localizada no Residencial Belo Horizonte em Goiânia na região leste ao lado do recanto das Minas Gerais. &lt;br&gt; Com 02 Quartos sendo um suíte; &lt;br&gt; Sala e cozinha integrada; &lt;br&gt; Banheiro Social; &lt;br&gt; Área de serviço; &lt;br&gt; Espaço no fundo; &lt;br&gt; Garagem; &lt;br&gt; Área gourmet; &lt;br&gt; &lt;br&gt; 370 mil &lt;br&gt; &lt;br&gt; Marcus Béda &lt;br&gt; Corretor de imóveis &lt;br&gt; Creci 23.152F &lt;br&gt; Www.marcusbedacorretor.com &lt;br&gt; 62-981162705 &lt;br&gt; ]]></Description>
+	<Features><Feature>Maid's Quarters</Feature><Feature>Kitchen</Feature><Feature>Close to schools</Feature></Features>
+	<ListPrice currency="BRL">370000</ListPrice>
+	
+	<LotArea unit="square metres">152</LotArea>
+	<LivingArea unit="square metres">91</LivingArea>
+	<Bedrooms>2</Bedrooms>
+	<Bathrooms>2</Bathrooms>
+	<Suites>1</Suites>
+	
+	<YearlyTax>600.00</YearlyTax><Iptu currency="BRL" period="Yearly">600.00</Iptu>
+	<Garage type="Garage">2</Garage>
+    
+</Details>
+<Media><Item medium="image" caption="20261007173040929.png" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/20261007173040929.png</Item><Item medium="image" caption="202610071730431092.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610071730431092.png</Item><Item medium="image" caption="202610071730474195.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610071730474195.png</Item><Item medium="image" caption="2026100717304932.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/2026100717304932.png</Item><Item medium="image" caption="202610071730532202.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610071730532202.png</Item><Item medium="image" caption="202610071730573431.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610071730573431.png</Item><Item medium="image" caption="202610071731016256.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610071731016256.png</Item><Item medium="image" caption="202610071731054712.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610071731054712.png</Item><Item medium="image" caption="202610071731091420.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202610071731091420.png</Item><Item medium="image" caption="20261007173113280.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261007173113280.png</Item><Item medium="image" caption="20261007173115802.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261007173115802.png</Item><Item medium="image" caption="2026100717311791.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/2026100717311791.png</Item></Media>
 <ContactInfo>
 	<Name><![CDATA[MARCUS BEDA]]></Name>
 	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
