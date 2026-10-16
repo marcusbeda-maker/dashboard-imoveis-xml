@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-10-15T19:45:08+00:00",
-    "total": 64,
+    "gerado_em_utc": "2026-10-16T06:51:51+00:00",
+    "total": 65,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -3164,6 +3164,53 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/20261007173040929.png",
       "link": "https://www.marcusbeda.com.br/imovel/4371240/casas-2-quartos-venda-goiania-go-residencial-belo-horizonte",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2061i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4371240/casas-2-quartos-venda-goiania-go-residencial-belo-horizonte"
+    },
+    {
+      "id": "4376734",
+      "listing_id": "67i-_1-4376734",
+      "titulo": "Casa 3 dormitórios para Venda em Goiânia, Jardim Califórnia, 3 dormitórios, 1 suíte, 3 banheiros, 3 vagas",
+      "referencia": "67i-_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Goiânia",
+      "bairro": "Jardim Califórnia",
+      "endereco": "Rua Inhandul",
+      "numero": "2",
+      "complemento": "Casa",
+      "cep": "74735100",
+      "valor": "R$ 800.000",
+      "valor_num": 800000,
+      "dormitorios": "3",
+      "banheiros": "3",
+      "vagas": "3",
+      "suites": "1",
+      "area_privativa": "116 m²",
+      "area_total": "185 m²",
+      "area_terreno": "185 m²",
+      "descricao": "Casa no Califórnia com 03 quartos sendo uma suíte com closet; Sala com pé direito alto; Área gourmet; Área de serviço; Banheiros social com Box; Venezianas na portas ; Garagem para 03 carros; Portão de carro; Portão de pedestre; 116 metros construídos 185 metros de lotes Valor de venda 650 mil Aceita financiamento, próximo ao Paço Municipal. Marcus Béda Corretor de Imóveis Creci Go 23.152 F www.marcusbeda.com.br www.marcusbedacorretor.com",
+      "imagens": [
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506294333.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506311031.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506342712.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506376412.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506418999.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506436051.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506462906.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506498179.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506527504.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506553876.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151506591780.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151507017827.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151507064665.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20261015150709205.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151507104319.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151507134063.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151507177776.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202610151507224607.png"
+      ],
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202610151506294333.png",
+      "link": "https://www.marcusbeda.com.br/imovel/4376734/casa-3-dormitorios-venda-goiania-go-jardim-california",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2067i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4376734/casa-3-dormitorios-venda-goiania-go-jardim-california"
     }
   ]
 }
