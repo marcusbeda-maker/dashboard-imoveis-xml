@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-10-25T22:22:00</PublishDate>
+								<PublishDate>2026-10-26T11:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -20,7 +20,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Santa Maria</Address><StreetNumber>1</StreetNumber><Complement>Apartamento bloco Londres</Complement><Latitude>-49.30546000</Latitude><Longitude>-16.71676000</Longitude><PostalCode>74710220</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
+	<Address>Rua Santa Maria</Address><StreetNumber>1</StreetNumber><Complement>Apartamento bloco Londres</Complement><Latitude>-16.71676000</Latitude><Longitude>-49.30546000</Longitude><PostalCode>74710220</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Apartment</PropertyType>
@@ -59,7 +59,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Fontana</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.10175000</Latitude><Longitude>-16.69474000</Longitude><PostalCode>75251238</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Parma]]></Neighborhood>
+	<Address>Rua Fontana</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.69474000</Latitude><Longitude>-49.10175000</Longitude><PostalCode>75251238</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Parma]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -215,7 +215,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua das Castanheiras</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.12322</Latitude><Longitude>-16.7873</Longitude><PostalCode>75251124</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
+	<Address>Rua das Castanheiras</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-16.7873</Latitude><Longitude>-49.12322</Longitude><PostalCode>75251124</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -254,7 +254,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua JV 10</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.10309</Latitude><Longitude>-16.69483</Longitude><PostalCode>75254026</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Condomínio Jardim Veneza]]></Neighborhood>
+	<Address>Rua JV 10</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.69483</Latitude><Longitude>-49.10309</Longitude><PostalCode>75254026</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Condomínio Jardim Veneza]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -293,7 +293,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua SR 5</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18894000</Latitude><Longitude>-16.63786000</Longitude><PostalCode>74785720</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+	<Address>Rua SR 5</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.63786000</Latitude><Longitude>-49.18894000</Longitude><PostalCode>74785720</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -488,7 +488,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua 2</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.22418000</Latitude><Longitude>-16.66662000</Longitude><PostalCode>74620320</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Vila Morais]]></Neighborhood>
+	<Address>Rua 2</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.66662000</Latitude><Longitude>-49.22418000</Longitude><PostalCode>74620320</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Vila Morais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -566,7 +566,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Via Mediterrânea</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.16499</Latitude><Longitude>-16.65907</Longitude><PostalCode>75255460</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Barcelona]]></Neighborhood>
+	<Address>Via Mediterrânea</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-16.65907</Latitude><Longitude>-49.16499</Longitude><PostalCode>75255460</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Barcelona]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -605,7 +605,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175</Latitude><Longitude>-16.69474</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
+	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-16.69474</Latitude><Longitude>-49.10175</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -644,7 +644,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua JB 6</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.31066000</Latitude><Longitude>-16.62635000</Longitude><PostalCode>74594160</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Jardim Belvedere Expansão]]></Neighborhood>
+	<Address>Rua JB 6</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.62635000</Latitude><Longitude>-49.31066000</Longitude><PostalCode>74594160</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Jardim Belvedere Expansão]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -683,7 +683,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Morrinhos</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18683000</Latitude><Longitude>-16.69828000</Longitude><PostalCode>75254473</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Marilia]]></Neighborhood>
+	<Address>Rua Morrinhos</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.69828000</Latitude><Longitude>-49.18683000</Longitude><PostalCode>75254473</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Marilia]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -722,7 +722,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Irlanda</Address><StreetNumber>604</StreetNumber><Complement>Residencial Paineraa</Complement><Latitude>-49.28208000</Latitude><Longitude>-16.62373000</Longitude><PostalCode>74593250</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Parque das Nações]]></Neighborhood>
+	<Address>Rua Irlanda</Address><StreetNumber>604</StreetNumber><Complement>Residencial Paineraa</Complement><Latitude>-16.62373000</Latitude><Longitude>-49.28208000</Longitude><PostalCode>74593250</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Parque das Nações]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Apartment</PropertyType>
@@ -761,7 +761,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua CV 08</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.21495</Latitude><Longitude>-16.69787</Longitude><PostalCode>74736063</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Village Campos Verdes]]></Neighborhood>
+	<Address>Rua CV 08</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.69787</Latitude><Longitude>-49.21495</Longitude><PostalCode>74736063</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Village Campos Verdes]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -800,7 +800,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua 3</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.20563000</Latitude><Longitude>-16.69331000</Longitude><PostalCode>74740530</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Brasil]]></Neighborhood>
+	<Address>Rua 3</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.69331000</Latitude><Longitude>-49.20563000</Longitude><PostalCode>74740530</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Brasil]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -839,7 +839,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Lima</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.21618000</Latitude><Longitude>-16.66683000</Longitude><PostalCode>74705080</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
+	<Address>Rua Lima</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.66683000</Latitude><Longitude>-49.21618000</Longitude><PostalCode>74705080</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -878,7 +878,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua SR 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18252000</Latitude><Longitude>-16.64467000</Longitude><PostalCode>74785460</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+	<Address>Rua SR 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.64467000</Latitude><Longitude>-49.18252000</Longitude><PostalCode>74785460</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -917,7 +917,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Alameda Turquia</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-49.12032000</Latitude><Longitude>-16.70701000</Longitude><PostalCode>75263253</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Terras Alpha Residencial 2]]></Neighborhood>
+	<Address>Alameda Turquia</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-16.70701000</Latitude><Longitude>-49.12032000</Longitude><PostalCode>75263253</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Terras Alpha Residencial 2]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Land Lot</PropertyType>
@@ -956,7 +956,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-49.10175000</Latitude><Longitude>-16.69474000</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
+	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-16.69474000</Latitude><Longitude>-49.10175000</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Land Lot</PropertyType>
@@ -995,7 +995,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Aryana Guimarães</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-49.29738000</Latitude><Longitude>-16.63568000</Longitude><PostalCode>74775104</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Carlos de Freitas]]></Neighborhood>
+	<Address>Rua Aryana Guimarães</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-16.63568000</Latitude><Longitude>-49.29738000</Longitude><PostalCode>74775104</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Carlos de Freitas]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Land Lot</PropertyType>
@@ -1073,7 +1073,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Sorocaba</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-49.22926000</Latitude><Longitude>-16.69386000</Longitude><PostalCode>74715490</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
+	<Address>Rua Sorocaba</Address><StreetNumber>1</StreetNumber><Complement>Lote</Complement><Latitude>-16.69386000</Latitude><Longitude>-49.22926000</Longitude><PostalCode>74715490</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Novo Mundo]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Land Lot</PropertyType>
@@ -1112,7 +1112,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Avenida Liberdade</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><Latitude>-49.21389000</Latitude><Longitude>-16.69480000</Longitude><PostalCode>74730010</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Conjunto Riviera]]></Neighborhood>
+	<Address>Avenida Liberdade</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><Latitude>-16.69480000</Latitude><Longitude>-49.21389000</Longitude><PostalCode>74730010</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Conjunto Riviera]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1151,7 +1151,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Tiradentes</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.08540000</Latitude><Longitude>-16.73659000</Longitude><PostalCode>75262616</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Setor Monte Azul]]></Neighborhood>
+	<Address>Rua Tiradentes</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.73659000</Latitude><Longitude>-49.08540000</Longitude><PostalCode>75262616</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Setor Monte Azul]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1190,7 +1190,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua C 166</Address><StreetNumber>1</StreetNumber><Complement>sobrado</Complement><Latitude>-49.29322000</Latitude><Longitude>-16.71971000</Longitude><PostalCode>74250230</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim América]]></Neighborhood>
+	<Address>Rua C 166</Address><StreetNumber>1</StreetNumber><Complement>sobrado</Complement><Latitude>-16.71971000</Latitude><Longitude>-49.29322000</Longitude><PostalCode>74250230</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim América]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -1229,7 +1229,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua dos Angelins</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.12322</Latitude><Longitude>-16.7873</Longitude><PostalCode>75251092</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
+	<Address>Rua dos Angelins</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.7873</Latitude><Longitude>-49.12322</Longitude><PostalCode>75251092</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -1268,7 +1268,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua 4</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18494000</Latitude><Longitude>-16.65903000</Longitude><PostalCode>74786456</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Paulo Estrela]]></Neighborhood>
+	<Address>Rua 4</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.65903000</Latitude><Longitude>-49.18494000</Longitude><PostalCode>74786456</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Paulo Estrela]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1307,7 +1307,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Amarílis</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175</Latitude><Longitude>-16.69474</Longitude><PostalCode>75251356</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
+	<Address>Rua Amarílis</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-16.69474</Latitude><Longitude>-49.10175</Longitude><PostalCode>75251356</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -1346,7 +1346,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Aragón</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.10175</Latitude><Longitude>-16.69474</Longitude><PostalCode>75255466</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Barcelona]]></Neighborhood>
+	<Address>Rua Aragón</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-16.69474</Latitude><Longitude>-49.10175</Longitude><PostalCode>75255466</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Barcelona]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -1385,7 +1385,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Livorno</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18337000</Latitude><Longitude>-16.65503000</Longitude><PostalCode>74769784</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Maria Helena]]></Neighborhood>
+	<Address>Rua Livorno</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.65503000</Latitude><Longitude>-49.18337000</Longitude><PostalCode>74769784</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Maria Helena]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1424,7 +1424,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua São Francisco</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.1312</Latitude><Longitude>-16.70774</Longitude><PostalCode>75255438</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Porto]]></Neighborhood>
+	<Address>Rua São Francisco</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.70774</Latitude><Longitude>-49.1312</Longitude><PostalCode>75255438</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Porto]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -1463,7 +1463,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Avenida do Ouro</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.1837</Latitude><Longitude>-16.65107</Longitude><PostalCode>74785292</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+	<Address>Avenida do Ouro</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-16.65107</Latitude><Longitude>-49.1837</Longitude><PostalCode>74785292</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -1502,7 +1502,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua das Quaresmeiras</Address><StreetNumber>1</StreetNumber><Complement>Casa D B</Complement><Latitude>-49.15398</Latitude><Longitude>-16.79071</Longitude><PostalCode>75251118</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
+	<Address>Rua das Quaresmeiras</Address><StreetNumber>1</StreetNumber><Complement>Casa D B</Complement><Latitude>-16.79071</Latitude><Longitude>-49.15398</Longitude><PostalCode>75251118</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Bolonha]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -1541,7 +1541,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Belém</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18132</Latitude><Longitude>-16.69666</Longitude><PostalCode>75254501</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
+	<Address>Rua Belém</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.69666</Latitude><Longitude>-49.18132</Longitude><PostalCode>75254501</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -1580,7 +1580,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua 1034</Address><StreetNumber>1</StreetNumber><Complement>4 andar  Apartamento 402</Complement><Latitude>-49.26357000</Latitude><Longitude>-16.71654000</Longitude><PostalCode>74823190</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Pedro Ludovico]]></Neighborhood>
+	<Address>Rua 1034</Address><StreetNumber>1</StreetNumber><Complement>4 andar  Apartamento 402</Complement><Latitude>-16.71654000</Latitude><Longitude>-49.26357000</Longitude><PostalCode>74823190</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Pedro Ludovico]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Apartment</PropertyType>
@@ -1619,7 +1619,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Ipê 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.12673000</Latitude><Longitude>-16.65593000</Longitude><PostalCode>75257713</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Flor do Ipê II]]></Neighborhood>
+	<Address>Rua Ipê 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.65593000</Latitude><Longitude>-49.12673000</Longitude><PostalCode>75257713</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Flor do Ipê II]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1658,7 +1658,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Ipê 19</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><Latitude>-49.12328000</Latitude><Longitude>-16.65228000</Longitude><PostalCode>75257641</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Flor do Ipê I]]></Neighborhood>
+	<Address>Rua Ipê 19</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><Latitude>-16.65228000</Latitude><Longitude>-49.12328000</Longitude><PostalCode>75257641</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Flor do Ipê I]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -1697,7 +1697,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua MB 17</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><Latitude>-49.12136</Latitude><Longitude>-16.69751</Longitude><PostalCode>75250626</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Morada do Bosque]]></Neighborhood>
+	<Address>Rua MB 17</Address><StreetNumber>1</StreetNumber><Complement>casa</Complement><Latitude>-16.69751</Latitude><Longitude>-49.12136</Longitude><PostalCode>75250626</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Morada do Bosque]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1736,7 +1736,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-49.18971</Latitude><Longitude>-16.69871</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
+	<Address>Rua VV 2</Address><StreetNumber>1</StreetNumber><Complement>Sobrado</Complement><Latitude>-16.69871</Latitude><Longitude>-49.18971</Longitude><PostalCode>75254135</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Vale Verde]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Sobrado</PropertyType>
@@ -1775,7 +1775,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Eunápio Dolce</Address><StreetNumber>1</StreetNumber><Complement>Casa subtrrea (estilo sobrado)</Complement><Latitude>-49.19172000</Latitude><Longitude>-16.65090000</Longitude><PostalCode>74780210</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Santo Hilário]]></Neighborhood>
+	<Address>Rua Eunápio Dolce</Address><StreetNumber>1</StreetNumber><Complement>Casa subtrrea (estilo sobrado)</Complement><Latitude>-16.65090000</Latitude><Longitude>-49.19172000</Longitude><PostalCode>74780210</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Santo Hilário]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1814,7 +1814,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Eunápio Dolce</Address><StreetNumber>2</StreetNumber><Complement>Casa Subtrrea (estilo Sobrado)</Complement><Latitude>-49.19172000</Latitude><Longitude>-16.65090000</Longitude><PostalCode>74780210</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Santo Hilário]]></Neighborhood>
+	<Address>Rua Eunápio Dolce</Address><StreetNumber>2</StreetNumber><Complement>Casa Subtrrea (estilo Sobrado)</Complement><Latitude>-16.65090000</Latitude><Longitude>-49.19172000</Longitude><PostalCode>74780210</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Santo Hilário]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1853,7 +1853,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Avenida das Flores</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.17986</Latitude><Longitude>-16.64795</Longitude><PostalCode>74785130</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+	<Address>Avenida das Flores</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.64795</Latitude><Longitude>-49.17986</Longitude><PostalCode>74785130</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1892,7 +1892,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Avenida Goiás</Address><StreetNumber>1</StreetNumber><Complement>13 andar</Complement><Latitude>-49.28807000</Latitude><Longitude>-16.62552000</Longitude><PostalCode>74593850</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Fazenda Criméia Caveiras]]></Neighborhood>
+	<Address>Avenida Goiás</Address><StreetNumber>1</StreetNumber><Complement>13 andar</Complement><Latitude>-16.62552000</Latitude><Longitude>-49.28807000</Longitude><PostalCode>74593850</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Fazenda Criméia Caveiras]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Apartment</PropertyType>
@@ -1931,7 +1931,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua 5</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina</Complement><Latitude>-49.20384000</Latitude><Longitude>-16.65275000</Longitude><PostalCode>74786459</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Paulo Estrela]]></Neighborhood>
+	<Address>Rua 5</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina</Complement><Latitude>-16.65275000</Latitude><Longitude>-49.20384000</Longitude><PostalCode>74786459</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Paulo Estrela]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -1970,7 +1970,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Herculina Marques de Abreu</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.19852</Latitude><Longitude>-16.65517</Longitude><PostalCode>74781001</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Sonho Dourado]]></Neighborhood>
+	<Address>Rua Herculina Marques de Abreu</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.65517</Latitude><Longitude>-49.19852</Longitude><PostalCode>74781001</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Sonho Dourado]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2009,7 +2009,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Avenida das Flores</Address><StreetNumber>1</StreetNumber><Complement>Casa de esquina com Piscina</Complement><Latitude>-49.18574000</Latitude><Longitude>-16.64587000</Longitude><PostalCode>74785130</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+	<Address>Avenida das Flores</Address><StreetNumber>1</StreetNumber><Complement>Casa de esquina com Piscina</Complement><Latitude>-16.64587000</Latitude><Longitude>-49.18574000</Longitude><PostalCode>74785130</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2048,7 +2048,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Americano do Brasil</Address><StreetNumber>1</StreetNumber><Complement>Esquina</Complement><Latitude>-49.18553</Latitude><Longitude>-16.66185</Longitude><PostalCode>74766010</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Loteamento Grande Retiro]]></Neighborhood>
+	<Address>Rua Americano do Brasil</Address><StreetNumber>1</StreetNumber><Complement>Esquina</Complement><Latitude>-16.66185</Latitude><Longitude>-49.18553</Longitude><PostalCode>74766010</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Loteamento Grande Retiro]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2087,7 +2087,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Açucena</Address><StreetNumber>1</StreetNumber><Complement>Casa subtrrea</Complement><Latitude>-49.12362</Latitude><Longitude>-16.80688</Longitude><PostalCode>75254176</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
+	<Address>Rua Açucena</Address><StreetNumber>1</StreetNumber><Complement>Casa subtrrea</Complement><Latitude>-16.80688</Latitude><Longitude>-49.12362</Longitude><PostalCode>75254176</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Nápoles]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -2126,7 +2126,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua JC 6</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina</Complement><Latitude>-49.11868</Latitude><Longitude>-16.69989</Longitude><PostalCode>75250341</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Jardim Canedo II]]></Neighborhood>
+	<Address>Rua JC 6</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina</Complement><Latitude>-16.69989</Latitude><Longitude>-49.11868</Longitude><PostalCode>75250341</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Jardim Canedo II]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2165,7 +2165,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Morrinhos</Address><StreetNumber>2</StreetNumber><Complement>Casa</Complement><Latitude>-49.18353</Latitude><Longitude>-16.69574</Longitude><PostalCode>75254659</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Marilia]]></Neighborhood>
+	<Address>Rua Morrinhos</Address><StreetNumber>2</StreetNumber><Complement>Casa</Complement><Latitude>-16.69574</Latitude><Longitude>-49.18353</Longitude><PostalCode>75254659</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Residencial Marilia]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2204,7 +2204,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua H 1</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina mobiliada</Complement><Latitude>-49.20409</Latitude><Longitude>-16.65212</Longitude><PostalCode>74781150</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Havaí]]></Neighborhood>
+	<Address>Rua H 1</Address><StreetNumber>1</StreetNumber><Complement>Casa com piscina mobiliada</Complement><Latitude>-16.65212</Latitude><Longitude>-49.20409</Longitude><PostalCode>74781150</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Havaí]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2243,7 +2243,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua H 10</Address><StreetNumber>1</StreetNumber><Complement>Casa com Piscina</Complement><Latitude>-49.20272</Latitude><Longitude>-16.65181</Longitude><PostalCode>74781185</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Havaí]]></Neighborhood>
+	<Address>Rua H 10</Address><StreetNumber>1</StreetNumber><Complement>Casa com Piscina</Complement><Latitude>-16.65181</Latitude><Longitude>-49.20272</Longitude><PostalCode>74781185</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Havaí]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2282,7 +2282,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua GR20</Address><StreetNumber>1</StreetNumber><Complement>Apto Grande Retiro</Complement><Latitude>-49.17984</Latitude><Longitude>-16.66377</Longitude><PostalCode>74766043</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Loteamento Grande Retiro]]></Neighborhood>
+	<Address>Rua GR20</Address><StreetNumber>1</StreetNumber><Complement>Apto Grande Retiro</Complement><Latitude>-16.66377</Latitude><Longitude>-49.17984</Longitude><PostalCode>74766043</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Loteamento Grande Retiro]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Apartment</PropertyType>
@@ -2321,7 +2321,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua GGC16</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.20968</Latitude><Longitude>-16.73608</Longitude><PostalCode>74884731</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Goiânia Golfe Clube]]></Neighborhood>
+	<Address>Rua GGC16</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.73608</Latitude><Longitude>-49.20968</Longitude><PostalCode>74884731</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Goiânia Golfe Clube]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -2360,7 +2360,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua GGC31</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18089000</Latitude><Longitude>-16.75047000</Longitude><PostalCode>74884764</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Goiânia Golfe Clube]]></Neighborhood>
+	<Address>Rua GGC31</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.75047000</Latitude><Longitude>-49.18089000</Longitude><PostalCode>74884764</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Goiânia Golfe Clube]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
@@ -2438,7 +2438,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua BH2</Address><StreetNumber>1</StreetNumber><Complement>Casa 1</Complement><Latitude>-49.18514000</Latitude><Longitude>-16.63946000</Longitude><PostalCode>74785743</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Belo Horizonte]]></Neighborhood>
+	<Address>Rua BH2</Address><StreetNumber>1</StreetNumber><Complement>Casa 1</Complement><Latitude>-16.63946000</Latitude><Longitude>-49.18514000</Longitude><PostalCode>74785743</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Belo Horizonte]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2477,7 +2477,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Inhandul</Address><StreetNumber>2</StreetNumber><Complement>Casa</Complement><Latitude>-49.20726000</Latitude><Longitude>-16.68534000</Longitude><PostalCode>74735100</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Califórnia]]></Neighborhood>
+	<Address>Rua Inhandul</Address><StreetNumber>2</StreetNumber><Complement>Casa</Complement><Latitude>-16.68534000</Latitude><Longitude>-49.20726000</Longitude><PostalCode>74735100</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Jardim Califórnia]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2516,7 +2516,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Cristalino</Address><StreetNumber>2</StreetNumber><Complement>Casa</Complement><Latitude>-49.20759000</Latitude><Longitude>-16.69267000</Longitude><PostalCode>74740040</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Conjunto Residencial Aruanã I]]></Neighborhood>
+	<Address>Rua Cristalino</Address><StreetNumber>2</StreetNumber><Complement>Casa</Complement><Latitude>-16.69267000</Latitude><Longitude>-49.20759000</Longitude><PostalCode>74740040</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Conjunto Residencial Aruanã I]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2555,7 +2555,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua MG 10</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.37001000</Latitude><Longitude>-16.83496000</Longitude><PostalCode>74965500</PostalCode><State abbreviation="GO">Goiás</State><City>Aparecida de Goiânia</City><Neighborhood><![CDATA[Conjunto Habitacional Madre Germana - 1ª Etapa]]></Neighborhood>
+	<Address>Rua MG 10</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.83496000</Latitude><Longitude>-49.37001000</Longitude><PostalCode>74965500</PostalCode><State abbreviation="GO">Goiás</State><City>Aparecida de Goiânia</City><Neighborhood><![CDATA[Conjunto Habitacional Madre Germana - 1ª Etapa]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2633,7 +2633,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua BH1</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-49.18449000</Latitude><Longitude>-16.63946000</Longitude><PostalCode>74785741</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Belo Horizonte]]></Neighborhood>
+	<Address>Rua BH1</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.63946000</Latitude><Longitude>-49.18449000</Longitude><PostalCode>74785741</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Belo Horizonte]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
