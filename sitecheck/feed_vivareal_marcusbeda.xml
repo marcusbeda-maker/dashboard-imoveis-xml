@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-10-27T22:22:00</PublishDate>
+								<PublishDate>2026-10-28T11:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2594,7 +2594,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Dália</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>75251296</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
+	<Address>Rua Dália</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.79034000</Latitude><Longitude>-49.15071000</Longitude><PostalCode>75251296</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
