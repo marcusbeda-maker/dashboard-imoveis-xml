@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-10-27T11:22:00</PublishDate>
+								<PublishDate>2026-10-27T22:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2586,15 +2586,15 @@
 
 <Listing>
 <ListingID>69i-_1-4377508</ListingID>
-<Title><![CDATA[Casa em Condomínio para Venda, Jardins Capri, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas]]></Title>
+<Title><![CDATA[Casa em Condomínio para Venda em Senador Canedo, Jardins Capri, 3 dormitórios, 3 suítes, 5 banheiros, 2 vagas]]></Title>
 <TransactionType>For Sale</TransactionType>
-<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4377508/casa-em-condominio-venda-jardins-capri</DetailViewUrl>
+<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4377508/casa-em-condominio-venda-senador-canedo-go-jardins-capri</DetailViewUrl>
 <PublicationType>SUPER_PREMIUM</PublicationType>
 
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Dália</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>75251296</PostalCode><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
+	<Address>Rua Dália</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>75251296</PostalCode><State abbreviation="GO">Goiás</State><City>Senador Canedo</City><Neighborhood><![CDATA[Jardins Capri]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Condo</PropertyType>
