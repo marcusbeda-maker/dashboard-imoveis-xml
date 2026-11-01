@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-10-31T11:22:00</PublishDate>
+								<PublishDate>2026-10-31T22:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -878,7 +878,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua SR 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.64467000</Latitude><Longitude>-49.18252000</Longitude><PostalCode>74785460</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+	<Address>Rua SR 33</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.64467</Latitude><Longitude>-49.18252</Longitude><PostalCode>74785460</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -887,8 +887,8 @@
 	<Features><Feature>Maid's Quarters</Feature><Feature>Copa</Feature><Feature>Kitchen</Feature><Feature>Close to shopping centers</Feature><Feature>Close to schools</Feature></Features>
 	<ListPrice currency="BRL">650000</ListPrice>
 	
-	<LotArea unit="square metres">1800</LotArea>
-	<LivingArea unit="square metres">180</LivingArea>
+	<LotArea unit="square metres">180</LotArea>
+	<LivingArea unit="square metres">145</LivingArea>
 	<Bedrooms>3</Bedrooms>
 	<Bathrooms>3</Bathrooms>
 	<Suites>1</Suites>
