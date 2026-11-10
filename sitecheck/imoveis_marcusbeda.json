@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-11-10T09:26:34+00:00",
-    "total": 67,
+    "gerado_em_utc": "2026-11-10T21:41:46+00:00",
+    "total": 68,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -3309,6 +3309,51 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202610222129099265.png",
       "link": "https://www.marcusbeda.com.br/imovel/4380909/casas-2-quartos-venda-goiania-go-residencial-belo-horizonte",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2070i-_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4380909/casas-2-quartos-venda-goiania-go-residencial-belo-horizonte"
+    },
+    {
+      "id": "4398032",
+      "listing_id": "71i_1-4398032",
+      "titulo": "Apartamento 3 Quartos para Venda em Goiânia, Vila Viana, 3 dormitórios, 1 suíte, 1 banheiro, 1 vaga",
+      "referencia": "71i_1",
+      "tipo": "Apartamento",
+      "finalidade": "venda",
+      "cidade": "Goiânia",
+      "bairro": "Vila Viana",
+      "endereco": "Rua 402",
+      "numero": "26",
+      "complemento": "Apartamento",
+      "cep": "74635170",
+      "valor": "R$ 420.000",
+      "valor_num": 420000,
+      "dormitorios": "3",
+      "banheiros": "1",
+      "vagas": "1",
+      "suites": "1",
+      "area_privativa": "63 m²",
+      "area_total": "63 m²",
+      "area_terreno": "63 m²",
+      "descricao": "Vendo apartamento no Portal do Cerrado, Setor Negrão de Lima. - 63m2 - 3 quartos sendo 1 suíte - andar mediano - nascente - 1 vaga de garagem - Condomínio 500,00 - Valor R$ 420.000,00 - área de lazer: Piscina, Playground, Brinquedoteca, Salão de jogos, Salão de Festas, Churrasqueira, Fitness, Quadra. Marcus Beda Corretor de Imóveis Creci 23.152 www.marcusbedacorretor.com",
+      "imagens": [
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611100959565634.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101000003157.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101000082968.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101000116847.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101000177944.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101000236024.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101000348083.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101000444006.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101000556167.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101001065969.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101001153652.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20261110100128207.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101001384061.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101001491019.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101002008358.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611101002051200.png"
+      ],
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202611100959565634.png",
+      "link": "https://www.marcusbeda.com.br/imovel/4398032/apartamento-3-quartos-venda-goiania-go-vila-viana",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2071i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4398032/apartamento-3-quartos-venda-goiania-go-vila-viana"
     }
   ]
 }
