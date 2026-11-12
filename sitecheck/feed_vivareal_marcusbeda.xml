@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-11-11T22:22:00</PublishDate>
+								<PublishDate>2026-11-12T11:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2672,7 +2672,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua Blandina Garcia Rosa</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><PostalCode>74735465</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Vale do Araguaia]]></Neighborhood>
+	<Address>Rua Blandina Garcia Rosa</Address><StreetNumber>1</StreetNumber><Complement>Casa</Complement><Latitude>-16.67380000</Latitude><Longitude>-49.20305000</Longitude><PostalCode>74735465</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Vale do Araguaia]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
