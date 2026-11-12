@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-11-11T17:01:53+00:00",
-    "total": 68,
+    "gerado_em_utc": "2026-11-12T09:29:01+00:00",
+    "total": 69,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -3354,6 +3354,51 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202611100959565634.png",
       "link": "https://www.marcusbeda.com.br/imovel/4398032/apartamento-3-quartos-venda-goiania-go-vila-viana",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2071i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4398032/apartamento-3-quartos-venda-goiania-go-vila-viana"
+    },
+    {
+      "id": "4400103",
+      "listing_id": "72i_1-4400103",
+      "titulo": "Casa 3 dormitórios para Venda em Goiânia, Residencial Vale do Araguaia, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
+      "referencia": "72i_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Goiânia",
+      "bairro": "Residencial Vale do Araguaia",
+      "endereco": "Rua Blandina Garcia Rosa",
+      "numero": "1",
+      "complemento": "Casa",
+      "cep": "74735465",
+      "valor": "R$ 595.000",
+      "valor_num": 595000,
+      "dormitorios": "3",
+      "banheiros": "2",
+      "vagas": "2",
+      "suites": "1",
+      "area_privativa": "115 m²",
+      "area_total": "180 m²",
+      "area_terreno": "180 m²",
+      "descricao": "Casa nova 03 Quartos no Residencial Vale do Araguaia em Goiânia. 03 Quartos sendo um suíte; Sala com Pé direito alto; Cozinha; Area de serviço; churrasqueira; Garagem; Banheiro Social; fotos ilustrativas, tratadas com IA. Marcus Béda Creci 23.152 Fone 62.4141-5271",
+      "imagens": [
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100137855.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100164157.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100205711.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100249160.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100308769.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100334789.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100381865.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100469037.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100547611.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112100591371.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/20261111210109654.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112101191666.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112101293806.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112101372409.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112101414302.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611112101519065.png"
+      ],
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202611112100137855.png",
+      "link": "https://www.marcusbeda.com.br/imovel/4400103/casa-3-dormitorios-venda-goiania-go-residencial-vale-do-araguaia",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2072i_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4400103/casa-3-dormitorios-venda-goiania-go-residencial-vale-do-araguaia"
     }
   ]
 }
