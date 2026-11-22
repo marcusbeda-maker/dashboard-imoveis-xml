@@ -2,8 +2,8 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-11-21T21:29:45+00:00",
-    "total": 71,
+    "gerado_em_utc": "2026-11-22T09:29:45+00:00",
+    "total": 72,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
   "imoveis": [
@@ -3499,6 +3499,53 @@
       "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202611192220504509.png",
       "link": "https://www.marcusbeda.com.br/imovel/4406904/casa-em-condominio-venda-senador-canedo-go-jardins-parma",
       "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2020i-%201k_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4406904/casa-em-condominio-venda-senador-canedo-go-jardins-parma"
+    },
+    {
+      "id": "4407434",
+      "listing_id": "75i- Casa 03 Quartos Rio Aragu_1-4407434",
+      "titulo": "Casa 3 dormitórios para Venda em Senador Canedo, Residencial Rio Araguaia, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
+      "referencia": "75i- Casa 03 Quartos Rio Aragu_1",
+      "tipo": "Casa",
+      "finalidade": "venda",
+      "cidade": "Senador Canedo",
+      "bairro": "Residencial Rio Araguaia",
+      "endereco": "Rua Tambaqui",
+      "numero": "1",
+      "complemento": "Casa",
+      "cep": "75255870",
+      "valor": "R$ 350.000",
+      "valor_num": 350000,
+      "dormitorios": "3",
+      "banheiros": "2",
+      "vagas": "2",
+      "suites": "1",
+      "area_privativa": "98 m²",
+      "area_total": "128 m²",
+      "area_terreno": "128 m²",
+      "descricao": "Casa nova 03 quartos no Residencial Rio Araguaia próxima a praça recreativa do Jardins das Oliveiras em Senador Canedo - 3 quartos, sendo 1 suíte; - 2 banheiros; - Sala; - Cozinha; - Área gourmet integrada à Garagem; Área construída: 98 m² Com Área do lote: 128 m² Valor de Venda R$ 350.000,00. Aceitamos financiamento.",
+      "imagens": [
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212201558343.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212202017861.jpeg",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212202202953.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212203115744.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212203591169.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212205147468.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212205198767.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212205252077.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212205283194.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212205364106.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212205433616.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212205486474.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212205576236.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212206056451.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212206129543.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212206158632.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212206215222.png",
+        "https://www.marcusbeda.com.br/imagens/imoveis/202611212206246665.png"
+      ],
+      "imagem_principal": "https://www.marcusbeda.com.br/imagens/imoveis/202611212201558343.png",
+      "link": "https://www.marcusbeda.com.br/imovel/4407434/casa-3-dormitorios-venda-senador-canedo-go-residencial-rio-araguaia",
+      "whatsapp": "https://wa.me/5562981162705?text=Tenho%20interesse%20no%20im%C3%B3vel%2075i-%20Casa%2003%20Quartos%20Rio%20Aragu_1%3A%20https%3A//www.marcusbeda.com.br/imovel/4407434/casa-3-dormitorios-venda-senador-canedo-go-residencial-rio-araguaia"
     }
   ]
 }
