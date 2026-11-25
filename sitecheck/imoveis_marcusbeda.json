@@ -2,7 +2,7 @@
   "meta": {
     "fonte_oficial": "xml_vivareal",
     "url": "http://www.marcusbeda.com.br/feed/vivareal/yncz3b2guhkliqe9rx684t5fm78037_www.marcusbeda.com.br.xml",
-    "gerado_em_utc": "2026-11-24T20:01:07+00:00",
+    "gerado_em_utc": "2026-11-25T10:58:51+00:00",
     "total": 72,
     "regra_disponibilidade": "Se está no XML/feed oficial do site, está disponível para venda."
   },
@@ -62,7 +62,7 @@
     {
       "id": "3933872",
       "listing_id": "5i_1-3933872",
-      "titulo": "Casa 3 dormitórios para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 2 banheiros, 1 vaga",
+      "titulo": "Casa 3 dormitórios para Venda em Goiânia, Setor Recanto das Minas Gerais, 3 dormitórios, 1 suíte, 2 banheiros, 2 vagas",
       "referencia": "5i_1",
       "tipo": "Casa",
       "finalidade": "venda",
@@ -76,12 +76,12 @@
       "valor_num": 420000,
       "dormitorios": "3",
       "banheiros": "2",
-      "vagas": "1",
+      "vagas": "2",
       "suites": "1",
-      "area_privativa": "106 m²",
-      "area_total": "135 m²",
-      "area_terreno": "135 m²",
-      "descricao": "Casa para Venda no bairro Setor Recanto das Minas Gerais, localizado na cidade de Goiânia / GO, região leste. Com 3 dormitórios, sendo 1 suíte, possui 2 banheiros, 1 vaga de garagem, 1 sala. Área Construída com 106,00 m², Área do Terreno com 135,00 m². Valor do Imóvel R$ 420.000,00*, IPTU R$ 500,00. Esse valor pode sofrer alterações sem aviso previo* Cômodos: Área de Serviço, Cozinha. Proximidades: Bares e Restaurantes, Escola, Farmácia, Supermercado.",
+      "area_privativa": "98 m²",
+      "area_total": "120 m²",
+      "area_terreno": "120 m²",
+      "descricao": "Casa para Venda no bairro Setor Recanto das Minas Gerais, localizado na cidade de Goiânia / GO, região leste. Com 3 dormitórios, sendo 1 suíte, possui 2 banheiros com Box, 2 vaga de garagem, sendo uma coberta, churrasqueira com bancada, 1 sala com pé direito alto e Leds para a iluminação. Área Construída com 98,00 m², Área do Terreno com 120,00 m². Valor do Imóvel R$ 420.000,00*, IPTU R$ 500,00. Esse valor pode sofrer alterações sem aviso previo* Cômodos: Área de Serviço, Cozinha. O imóvel está em fase final de acabamento e documentos previsto para fevereiro. fotos semelhantes ao imóvel atual. Proximidades: Bares e Restaurantes, Escola, Farmácia, Supermercado.",
       "imagens": [
         "https://www.marcusbeda.com.br/imagens/imoveis/202509110936156213.jpg",
         "https://www.marcusbeda.com.br/imagens/imoveis/202509110936112911.jpg",
