@@ -5,7 +5,7 @@
 								<Email>contato@imobibrasil.com.br</Email>
 								<ContactName>ImobiBrasil</ContactName>
 								<Telephone>(18) 3222-0557</Telephone>
-								<PublishDate>2026-11-25T11:23:00</PublishDate>
+								<PublishDate>2026-11-25T22:22:00</PublishDate>
 								<Logo>https://www.imobibrasil.com.br/imagens/logo_imobibrasil.png</Logo>
 							  </Header>
 
@@ -2204,7 +2204,7 @@
 
 <Location displayAddress="All">
 	<Country abbreviation="BR">Brasil</Country>
-	<Address>Rua BH2</Address><StreetNumber>1</StreetNumber><Complement>Casa 1</Complement><Latitude>-16.63946000</Latitude><Longitude>-49.18514000</Longitude><PostalCode>74785743</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Belo Horizonte]]></Neighborhood>
+	<Address>Rua BH2</Address><StreetNumber>1</StreetNumber><Complement>Casa 1</Complement><Latitude>-16.63946</Latitude><Longitude>-49.18514</Longitude><PostalCode>74785743</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Residencial Belo Horizonte]]></Neighborhood>
 </Location>
 <Details>
 	<PropertyType>Residential / Home</PropertyType>
@@ -2692,6 +2692,84 @@
     
 </Details>
 <Media><Item medium="image" caption="202611212233478386.png" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202611212233478386.png</Item><Item medium="image" caption="202611212233494201.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212233494201.png</Item><Item medium="image" caption="2026112122335143.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/2026112122335143.png</Item><Item medium="image" caption="20261121223353793.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261121223353793.png</Item><Item medium="image" caption="202611212233569285.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212233569285.png</Item><Item medium="image" caption="202611212233586257.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212233586257.png</Item><Item medium="image" caption="202611212233595659.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212233595659.jpeg</Item><Item medium="image" caption="202611212233591512.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212233591512.jpeg</Item><Item medium="image" caption="202611212234003841.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234003841.jpeg</Item><Item medium="image" caption="202611212234004690.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234004690.jpeg</Item><Item medium="image" caption="202611212234009673.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234009673.jpeg</Item><Item medium="image" caption="202611212234008724.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234008724.jpeg</Item><Item medium="image" caption="202611212234003935.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234003935.jpeg</Item><Item medium="image" caption="202611212234018371.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234018371.jpeg</Item><Item medium="image" caption="202611212234012332.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234012332.jpeg</Item><Item medium="image" caption="20261121223401251.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261121223401251.jpeg</Item><Item medium="image" caption="202611212234018080.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234018080.jpeg</Item><Item medium="image" caption="202611212234028083.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234028083.jpeg</Item><Item medium="image" caption="202611212234022448.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234022448.jpeg</Item><Item medium="image" caption="202611212234024140.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234024140.jpeg</Item><Item medium="image" caption="202611212234023642.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234023642.jpeg</Item><Item medium="image" caption="202611212234028860.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212234028860.jpeg</Item></Media>
+<ContactInfo>
+	<Name><![CDATA[MARCUS BEDA]]></Name>
+	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
+	<Email>marcusbeda@gmail.com</Email>
+	<Telephone>(62) 98116-2705</Telephone>
+	<Website>https://www.marcusbeda.com.br</Website>
+</ContactInfo>
+</Listing>
+
+<Listing>
+<ListingID>76i-_1-4407443</ListingID>
+<Title><![CDATA[Casa 3 dormitórios para Venda, Setor Recanto das Minas Gerais, 3 dormitórios, 2 suítes, 3 banheiros, 3 vagas]]></Title>
+<TransactionType>For Sale</TransactionType>
+<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4407443/casa-3-dormitorios-venda-setor-recanto-das-minas-gerais</DetailViewUrl>
+<PublicationType>SUPER_PREMIUM</PublicationType>
+
+
+<Location displayAddress="All">
+	<Country abbreviation="BR">Brasil</Country>
+	<Address>Avenida do Ouro</Address><StreetNumber>1</StreetNumber><Complement>Casa de esquina</Complement><PostalCode>74785292</PostalCode><Neighborhood><![CDATA[Setor Recanto das Minas Gerais]]></Neighborhood>
+</Location>
+<Details>
+	<PropertyType>Residential / Home</PropertyType>
+	<UsageType>Residential</UsageType>
+	<Description><![CDATA[Casa Nova de esquina no Recanto das Minas Gerais &lt;br&gt; Quintal ampla, aceita financiamento. &lt;br&gt; &lt;br&gt; 03 quartos sendo 2 suítes; &lt;br&gt; Sala ampla com pé direito alto; &lt;br&gt; Cozinha com bancada; &lt;br&gt; Área de serviço; &lt;br&gt; Área gourmet; &lt;br&gt; Garagem; &lt;br&gt; O imóvel tem proximidade com restaurante, academia, escola, banco, transporte público; &lt;br&gt; Lote com 318 metros; &lt;br&gt; Área construída 177 metros; &lt;br&gt; Preço de fechamento 685.000,00. &lt;br&gt; &lt;br&gt; www.marcusbedacorretor.com]]></Description>
+	<Features><Feature>Maid's Quarters</Feature><Feature>Kitchen</Feature><Feature>Close to schools</Feature></Features>
+	<ListPrice currency="BRL">685000</ListPrice>
+	
+	<LotArea unit="square metres">318</LotArea>
+	<LivingArea unit="square metres">177</LivingArea>
+	<Bedrooms>3</Bedrooms>
+	<Bathrooms>3</Bathrooms>
+	<Suites>2</Suites>
+	
+	<YearlyTax>700.00</YearlyTax><Iptu currency="BRL" period="Yearly">700.00</Iptu>
+	<Garage type="Garage">3</Garage>
+    
+</Details>
+<Media><Item medium="image" caption="202611212251398369.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251398369.jpeg</Item><Item medium="image" caption="20261121225140192.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261121225140192.jpeg</Item><Item medium="image" caption="202611212251401243.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251401243.jpeg</Item><Item medium="image" caption="202611212251404990.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251404990.jpeg</Item><Item medium="image" caption="202611212251406602.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251406602.jpeg</Item><Item medium="image" caption="202611212251403128.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251403128.jpeg</Item><Item medium="image" caption="202611212251405634.jpeg" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202611212251405634.jpeg</Item><Item medium="image" caption="202611212251418744.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251418744.jpeg</Item><Item medium="image" caption="20261121225141558.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261121225141558.jpeg</Item><Item medium="image" caption="202611212251417758.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251417758.jpeg</Item><Item medium="image" caption="202611212251411278.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251411278.jpeg</Item><Item medium="image" caption="202611212251416307.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251416307.jpeg</Item><Item medium="image" caption="202611212251429185.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251429185.jpeg</Item><Item medium="image" caption="202611212251425741.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611212251425741.jpeg</Item><Item medium="image" caption="20261121225142670.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261121225142670.jpeg</Item></Media>
+<ContactInfo>
+	<Name><![CDATA[MARCUS BEDA]]></Name>
+	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
+	<Email>marcusbeda@gmail.com</Email>
+	<Telephone>(62) 98116-2705</Telephone>
+	<Website>https://www.marcusbeda.com.br</Website>
+</ContactInfo>
+</Listing>
+
+<Listing>
+<ListingID>79i-_1-4410660</ListingID>
+<Title><![CDATA[Casa 3 dormitórios para Venda em Goiânia, Vila Maria Luiza, 3 dormitórios, 1 suíte, 2 banheiros, 3 vagas]]></Title>
+<TransactionType>For Sale</TransactionType>
+<DetailViewUrl>https://www.marcusbeda.com.br/imovel/4410660/casa-3-dormitorios-venda-goiania-go-vila-maria-luiza</DetailViewUrl>
+<PublicationType>SUPER_PREMIUM</PublicationType>
+
+
+<Location displayAddress="All">
+	<Country abbreviation="BR">Brasil</Country>
+	<Address>Rua Uruguai</Address><StreetNumber>2</StreetNumber><Complement>Casa</Complement><Latitude>-16.68796000</Latitude><Longitude>-49.21809000</Longitude><PostalCode>74720280</PostalCode><State abbreviation="GO">Goiás</State><City>Goiânia</City><Neighborhood><![CDATA[Vila Maria Luiza]]></Neighborhood>
+</Location>
+<Details>
+	<PropertyType>Residential / Home</PropertyType>
+	<UsageType>Residential</UsageType>
+	<Description><![CDATA[Casa no Jardim novo mundo &lt;br&gt; Apesar do cadastro aparecer Vila Maria Luiza, fica dentro &lt;br&gt; do novo mundo. &lt;br&gt; &lt;br&gt; Localizada próximo ao shopping Lozandes. &lt;br&gt; Casa com 03 quartos sendo um suíte; &lt;br&gt; Sala com Pé direito Alto, &lt;br&gt; Cozinha com armários integrada com sala e área gourmet; &lt;br&gt; Banheiros com Boxs e armários; &lt;br&gt; Garagem; &lt;br&gt; Piscina; &lt;br&gt; Porta em alumínio; &lt;br&gt; Fachada imponente; &lt;br&gt; &lt;br&gt; 118,46 de área construída &lt;br&gt; 194,00 metros de lote &lt;br&gt; &lt;br&gt; Valor de venda 655.000,00]]></Description>
+	
+	<ListPrice currency="BRL">655000</ListPrice>
+	
+	<LotArea unit="square metres">194</LotArea>
+	<LivingArea unit="square metres">118</LivingArea>
+	<Bedrooms>3</Bedrooms>
+	<Bathrooms>2</Bathrooms>
+	<Suites>1</Suites>
+	
+	<YearlyTax>600.00</YearlyTax><Iptu currency="BRL" period="Yearly">600.00</Iptu>
+	<Garage type="Garage">3</Garage>
+    
+</Details>
+<Media><Item medium="image" caption="202611251149223328.png" primary="true">https://www.marcusbeda.com.br/imagens/imoveis/202611251149223328.png</Item><Item medium="image" caption="202611251149266899.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251149266899.png</Item><Item medium="image" caption="202611251149331015.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251149331015.png</Item><Item medium="image" caption="202611251149424302.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251149424302.png</Item><Item medium="image" caption="20261125114950656.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261125114950656.png</Item><Item medium="image" caption="202611251149591089.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251149591089.png</Item><Item medium="image" caption="20261125115008523.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261125115008523.png</Item><Item medium="image" caption="202611251150203089.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251150203089.png</Item><Item medium="image" caption="20261125115028247.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261125115028247.png</Item><Item medium="image" caption="202611251150367460.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251150367460.png</Item><Item medium="image" caption="202611251150449238.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251150449238.png</Item><Item medium="image" caption="202611251150564033.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251150564033.jpeg</Item><Item medium="image" caption="202611251150581766.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251150581766.jpeg</Item><Item medium="image" caption="20261125115059736.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/20261125115059736.jpeg</Item><Item medium="image" caption="202611251151019710.jpeg" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251151019710.jpeg</Item><Item medium="image" caption="202611251151028551.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251151028551.png</Item><Item medium="image" caption="202611251151071336.png" primary="false">https://www.marcusbeda.com.br/imagens/imoveis/202611251151071336.png</Item></Media>
 <ContactInfo>
 	<Name><![CDATA[MARCUS BEDA]]></Name>
 	<OfficeName><![CDATA[MARCUS BEDA]]></OfficeName>
